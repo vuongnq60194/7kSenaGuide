@@ -1,0 +1,180 @@
+<html>
+
+<head>
+    <title>
+        <%- Title %>
+    </title>
+    <% include partials/head %>
+</head>
+
+<body>
+    <div>
+        <% include partials/navigation %>
+    </div>
+    <div class="container main-content">
+        <% include partials/top-ads %>
+        <section>
+            <h1>Raid</h1>
+            <div class="row">
+                <div class="col-sm-6 col-md-6">
+                    <div class="heroes-panel">
+                        <h3>RECOMMENDED BACKLINE DPS</h3>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.ShaneImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p>
+                                <%= guide.Shane %>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.JupyImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p>
+                                <%= guide.Jupy%>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.DellonsImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p>
+                                <%= guide.Dellons%>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="heroes-panel">
+                        <h3>STUN IMMUNE</h3>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.SiegImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p>
+                                <%= guide.Sieg %>
+                            </p>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.KaronImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p><%= guide.Karon %></p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6 right-cr right-cr-padding">
+                    <div class="heroes-panel">
+                        <h3>MAGIC DAMAGE REDUCE</h3>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.EspadaImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p><%= guide.Espada %></p>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.VelikaImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p><%= guide.Velika %></p>
+                        </div>
+                    </div>
+                    <div class="heroes-panel">
+                        <h3>DAMAGE BOOSTER</h3>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.EileeneImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p><%= guide.Eileene %></p>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.VictoriaImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p><%= guide.Victoria %></p>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-sm-4 col-md-4">
+                            <img src="<%= guide.LinaImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-8 col-md-8">
+                            <p><%= guide.Lina %></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-6 col-md-6">
+                    <div class="heroes-panel">
+                        <h3>TEAM #1 SUGGESTION</h3>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.ShaneImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.LinaImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.EileeneImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.SiegImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.EspadaImg %>" class="img-thumbnail">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-6 col-md-6">
+                    <div class="heroes-panel">
+                        <h3>TEAM #2 SUGGESTION</h3>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.DellonsImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.VictoriaImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.JupyImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.KaronImg %>" class="img-thumbnail">
+                        </div>
+                        <div class="col-sm-2 col-md-2">
+                            <img src="<%= guide.VelikaImg %>" class="img-thumbnail">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <div class="row">
+            <% include partials/facebook %>
+        </div>
+    </div>
+    <div>
+        <% include partials/footer %>
+    </div>
+</body>
+
+</html>
