@@ -4,7 +4,7 @@ var express = require('express');
 var https = require('https');
 var rest = require('restler');
 var app = express();
-var serverPort = 8080;
+var serverPort = 80;
 
 app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/views'));
