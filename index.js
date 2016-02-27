@@ -19,7 +19,7 @@ var options = {
 
 app.get('/', function (req, res) {
     rest.get(baseURL + 'classes/Heroes', options).on('complete', function (data) {
-        res.render('heroes', {
+        res.render('pages/heroes', {
             Title: "Heroes",
             Heroes: data.results
         });
@@ -31,7 +31,7 @@ app.get('/hero', function (req, res) {
     });
     rest.get(baseURL + 'classes/Heroes?where=' + param, options).on('complete', function (hero) {
         rest.get(baseURL + 'classes/Skillsets?where=' + param, options).on('complete', function (skills) {
-            res.render('hero', {
+            res.render('pages/hero', {
                 Title: req.param('name'),
                 Hero: hero.results[0],
                 Skills: skills.results
@@ -40,13 +40,13 @@ app.get('/hero', function (req, res) {
     });
 });
 app.get('/castlerush', function (req, res) {
-    res.render('castlerush', {
+    res.render('pages/castlerush', {
         Title: 'Castle Rush',
         guide: crGuide
     });
 });
 app.get('/raid', function (req, res) {
-    res.render('raid', {
+    res.render('pages/raid', {
         Title: 'Raid',
         guide: raidGuide
     });
