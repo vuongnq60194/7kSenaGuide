@@ -257,7 +257,6 @@ h6,
     color: #BBB !important;
     text-decoration: none;
 }
-.knight-thumbnail {
-    background-color: rgba(187, 187, 187, 0.5);
+.knight-item {
+    background-image: url("../img/sevenknights/background.jpg");
 }
-
