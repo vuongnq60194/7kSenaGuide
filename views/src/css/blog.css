@@ -246,17 +246,18 @@ h6,
 .icon-link:hover {
     color: #BBB !important;
 }
-.knights-list a{
+.knights-list a {
     color: #999 !important;
 }
-.knights-list a:hover{
+.knights-list a:hover {
     color: #BBB !important;
     text-decoration: none;
 }
-.knights-list a:active{
+.knights-list a:active {
     color: #BBB !important;
     text-decoration: none;
 }
-.knight-thumbnail{
-    background-color: #000;
+.knight-thumbnail {
+    background-color: rgba(187, 187, 187, 0.5);
 }
+
