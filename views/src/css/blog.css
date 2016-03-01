@@ -239,10 +239,24 @@ h6,
     margin-left: 10px;
     margin-right: 10px;
 }
-.icon-link{
+.icon-link {
     color: #999 !important;
     font-size: 36px !important;
 }
-.icon-link:hover{
+.icon-link:hover {
     color: #BBB !important;
+}
+.knights-list a{
+    color: #999 !important;
+}
+.knights-list a:hover{
+    color: #BBB !important;
+    text-decoration: none;
+}
+.knights-list a:active{
+    color: #BBB !important;
+    text-decoration: none;
+}
+.knight-thumbnail{
+    background-color: #000;
 }
