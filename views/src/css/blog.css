@@ -259,4 +259,5 @@ h6,
 }
 .knight-item {
     background-image: url("../img/sevenknights/background.jpg");
+    border-radius: 4px;
 }
