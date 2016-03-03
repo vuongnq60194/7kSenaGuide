@@ -258,15 +258,9 @@ h6,
     color: #BBB !important;
     text-decoration: none;
 }
-<<<<<<< HEAD
 .review-caption{
     position: absolute;
     width: 100%;
     text-align: center;
     bottom: -15px;
-=======
-.knight-item {
-    background-image: url("../img/sevenknights/background.jpg");
-    border-radius: 4px;
->>>>>>> e4c8dbeb171b6bc37f47353291b681475a28b616
 }
