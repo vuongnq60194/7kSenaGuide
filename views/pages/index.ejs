@@ -12,8 +12,18 @@
         <% include ../partials/navigation %>
     </div>
     <div class="container main-content">
-        <% include ../partials/top-ads %>
         <section>
+<<<<<<< HEAD
+            <div class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="item active">
+                        <a href="/hero?name=<%= Config.R_Name %>"><img src="<%= Config.R_Img.url %>" style="width: 75%; margin: 0 auto;"></a>
+                    </div>
+
+                    <div class="review-caption">
+                        <h2>Daily Review: <%= Config.R_Name %></h2>
+                    </div>
+=======
             <div class="col-md-9 col-sm-9">
                 <div class="tab-content">
                     <% SevenKnights.forEach(function(hero){ %>
@@ -27,19 +37,28 @@
                             </div>
                         </div>
                     <% }); %>
+>>>>>>> e4c8dbeb171b6bc37f47353291b681475a28b616
                 </div>
             </div>
-            <div class="col-md-3 col-sm-3 blog-sidebar">
-                <div class="sidebar-module sidebar-module-inset">
-                    <h2>Seven Knights</h2>
-                    <ol id="knights-stack" class="nav nav-pills nav-stacked list-unstyled knights-list" role="tablist">
-                        <% SevenKnights.forEach(function(hero){ %>
-                            <li>
-                                <h4><a href="#<%= hero.Name %>" data-toggle="tab"><%= hero.Name %></a></h4></li>
-                            <% }); %>
-                    </ol>
+
+            <div style="text-align: center">
+                <a><img src="../src/img/btn_catalog.png" atl="Codex" class="btn btn-round" style="width: 15%" /></a>
+                <a><img src="../src/img/btn_castle.png" atl="Castle Rush" class="btn btn-round" style="width: 15%" /></a>
+                <a><img src="../src/img/btn_raid.png" atl="Raid" class="btn btn-round" style="width: 15%" /></a>
+            </div>
+            <!--
+            <div class="tab-content">
+                <div role="tabpanel" class="tab-pane active">
+                    <div class="item">
+                        <img src="../src/img/sevenknights/dellons.png" class="img-rounded" style="width: 75%">
+                        <div class="carousel-caption">
+                            <h3>Dellons</h3>
+                        </div>
+                    </div>
                 </div>
             </div>
+-->
+
         </section>
     </div>
     <div>
@@ -53,4 +72,5 @@
     (function() {
         $('#knights-stack li:eq(0) a').click()
     }());
+
 </script>

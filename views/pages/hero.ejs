@@ -13,173 +13,216 @@
     </div>
     <div class="container main-content">
         <% include ../partials/top-ads %>
-        <section class="container">
-            <div class="row">
-                <div class="col-sm-3 col-md-3">
-                    <img src="<%= Hero.H_Image.url %>" class="img-thumbnail">
-                    <div class="hero-detail-header">
-                        <img src="../src/img/type/<%= Hero.H_Type %>.png" class="element-type">
-                        <h3 class="hero-detail-name"><%= Hero.H_Name %></h3>
+            <section class="container">
+                <div class="row">
+                    <div class="col-sm-3 col-md-3">
+                        <img src="<%= Hero.H_Image.url %>" class="img-thumbnail">
+                        <div class="hero-detail-header">
+                            <img src="../src/img/type/<%= Hero.H_Type %>.png" class="element-type">
+                            <h3 class="hero-detail-name"><%= Hero.H_Name %></h3>
+                        </div>
+                    </div>
+                    <div class="col-sm-9 col-md-9">
+                        <br>
+                        <br>
+                        <blockquote>
+                            <span><%= Hero.H_Description %></span>
+                        </blockquote>
                     </div>
                 </div>
-                <div class="col-sm-9 col-md-9">
-                    <br>
-                    <br>
-                    <blockquote>
-                        <span><%= Hero.H_Description %></span>
-                    </blockquote>
-                </div>
-            </div>
-            <div class="panel panel-default hero-detail-panel">
-                <div class="panel-body">
-                    <div class="row">
-                        <div class="col-sm-6 col-md-6">
-                            <table class="table hero-stat">
-                                <tr>
-                                    <td>HP</td>
-                                    <td>Attack</td>
-                                    <td>Magic</td>
-                                    <td>Def</td>
-                                    <td>Speed</td>
-                                </tr>
-                                <tr>
-                                    <td>
-                                        <%= Hero.HP %>
-                                    </td>
-                                    <td>
-                                        <%= Hero.Attack %>
-                                    </td>
-                                    <td>
-                                        <%= Hero.Magic %>
-                                    </td>
-                                    <td>
-                                        <%= Hero.Def %>
-                                    </td>
-                                    <td>
-                                        <%= Hero.Speed %>
-                                    </td>
-                                </tr>
-                            </table>
-                            <hr>
-                            <div class="row hero-feedback">
-                                <div class="col-sm-3 col-md-3">
-                                    <span>C.R</span>
-                                </div>
-                                <div class="col-sm-9 col-md-9" data-bind="if: hero().Castle">
-                                    <% for (var i = 0; i < Hero.Castle; i++) {%>
-                                        <img src="../src/img/star.png" class="feedback-star">
-                                        <% } %>
-                                </div>
-                            </div>
-                            <div class="row hero-feedback">
-                                <div class="col-sm-3 col-md-3">
-                                    <span>Adventure</span>
-                                </div>
-                                <div class="col-sm-9 col-md-9">
-                                    <% for (var i = 0; i < Hero.Adventure; i++) {%>
-                                        <img src="../src/img/star.png" class="feedback-star">
-                                        <% } %>
-                                </div>
-                            </div>
-                            <div class="row hero-feedback">
-                                <div class="col-sm-3 col-md-3">
-                                    <span>PvP</span>
-                                </div>
-                                <div class="col-sm-9 col-md-9">
-                                    <% for (var i = 0; i < Hero.Arena; i++) {%>
-                                        <img src="../src/img/star.png" class="feedback-star">
-                                        <% } %>
-                                </div>
-                            </div>
-                            <div class="row hero-feedback">
-                                <div class="col-sm-3 col-md-3">
-                                    <span>Tower</span>
-                                </div>
-                                <div class="col-sm-9 col-md-9">
-                                    <% for (var i = 0; i < Hero.Tower; i++) {%>
-                                        <img src="../src/img/star.png" class="feedback-star">
-                                        <% } %>
-                                </div>
-                            </div>
-                            <div class="row hero-feedback">
-                                <div class="col-sm-3 col-md-3">
-                                    <span>Raid</span>
-                                </div>
-                                <div class="col-sm-9 col-md-9">
-                                    <% for (var i = 0; i < Hero.Raid; i++) {%>
-                                        <img src="../src/img/star.png" class="feedback-star">
-                                        <% } %>
-                                </div>
-                            </div>
-                            <hr>
-                            <div class="row">
-                                <div class="col-sm-6 col-md-6">
-                                    <div class="row hero-item">
-                                        <div class="col-sm-6 col-md-6">
-                                            <span>Weapon 1</span>
-                                        </div>
-                                        <div class="col-sm-6 col-md-6">
-                                            <span><%= Hero.Weapon_1 %></span>
-                                        </div>
-                                    </div>
-                                    <div class="row hero-item">
-                                        <div class="col-sm-6 col-md-6">
-                                            <span>Armor 1</span>
-                                        </div>
-                                        <div class="col-sm-6 col-md-6">
-                                            <span><%= Hero.Armor_1 %></span>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-sm-6 col-md-6 row">
-                                    <div class="row hero-item">
-                                        <div class="col-sm-6 col-md-6">
-                                            <span>Weapon 2</span>
-                                        </div>
-                                        <div class="col-sm-6 col-md-6">
-                                            <span><%= Hero.Weapon_2 %></span>
-                                        </div>
-                                    </div>
-                                    <div class="row hero-item">
-                                        <div class="col-sm-6 col-md-6">
-                                            <span>Armor 2</span>
-                                        </div>
-                                        <div class="col-sm-6 col-md-6">
-                                            <span><%= Hero.Armor_2 %></span>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-sm-6 col-md-6">
-                            <% Skills.forEach(function(skill){ %>
-                                <div class="row">
+                <div class="panel panel-default hero-detail-panel">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-sm-6 col-md-6">
+                                <table class="table hero-stat">
+                                    <tr>
+                                        <td>HP</td>
+                                        <td>Attack</td>
+                                        <td>Magic</td>
+                                        <td>Def</td>
+                                        <td>Speed</td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <%= Hero.HP %>
+                                        </td>
+                                        <td>
+                                            <%= Hero.Attack %>
+                                        </td>
+                                        <td>
+                                            <%= Hero.Magic %>
+                                        </td>
+                                        <td>
+                                            <%= Hero.Def %>
+                                        </td>
+                                        <td>
+                                            <%= Hero.Speed %>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <hr>
+                                <div class="row hero-feedback">
                                     <div class="col-sm-3 col-md-3">
-                                        <img src="<%= skill.S_img.url %>" class="img-thumbnail skill-img">
+                                        <span>C.R</span>
+                                    </div>
+                                    <div class="col-sm-9 col-md-9" data-bind="if: hero().Castle">
+                                        <% for (var i = 0; i < Hero.Castle; i++) {%>
+                                            <img src="../src/img/star.png" class="feedback-star">
+                                            <% } %>
+                                    </div>
+                                </div>
+                                <div class="row hero-feedback">
+                                    <div class="col-sm-3 col-md-3">
+                                        <span>Adventure</span>
                                     </div>
                                     <div class="col-sm-9 col-md-9">
-                                        <div class="hero-skill">
-                                            <span><%= skill.S_Name %></span>
+                                        <% for (var i = 0; i < Hero.Adventure; i++) {%>
+                                            <img src="../src/img/star.png" class="feedback-star">
+                                            <% } %>
+                                    </div>
+                                </div>
+                                <div class="row hero-feedback">
+                                    <div class="col-sm-3 col-md-3">
+                                        <span>PvP</span>
+                                    </div>
+                                    <div class="col-sm-9 col-md-9">
+                                        <% for (var i = 0; i < Hero.Arena; i++) {%>
+                                            <img src="../src/img/star.png" class="feedback-star">
+                                            <% } %>
+                                    </div>
+                                </div>
+                                <div class="row hero-feedback">
+                                    <div class="col-sm-3 col-md-3">
+                                        <span>Tower</span>
+                                    </div>
+                                    <div class="col-sm-9 col-md-9">
+                                        <% for (var i = 0; i < Hero.Tower; i++) {%>
+                                            <img src="../src/img/star.png" class="feedback-star">
+                                            <% } %>
+                                    </div>
+                                </div>
+                                <div class="row hero-feedback">
+                                    <div class="col-sm-3 col-md-3">
+                                        <span>Raid</span>
+                                    </div>
+                                    <div class="col-sm-9 col-md-9">
+                                        <% for (var i = 0; i < Hero.Raid; i++) {%>
+                                            <img src="../src/img/star.png" class="feedback-star">
+                                            <% } %>
+                                    </div>
+                                </div>
+                                <hr>
+                                <div class="row">
+                                    <div class="col-sm-6 col-md-6">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><img src="../src/img/sword.png" class="img-rounded" style="width: 30%"></span>
+                                            </div>
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Weapon_1 %></span>
+                                            </div>
                                         </div>
-                                        <div class="hero-skill">
-                                            <span>Cool down:</span>
-                                            <span><%= skill.S_CD %></span>
+                                        <div class="row hero-item">
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><img src="../src/img/shield.png" class="img-rounded" style="width: 30%"></span>
+                                            </div>
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Armor_1 %></span>
+                                            </div>
                                         </div>
-                                        <div>
-                                            <span><%= skill.S_Description %></span>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 row">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Weapon_2 %></span>
+                                            </div>
+                                            <div class="col-sm-6 col-md-6">
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                        <div class="row">
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Armor_2 %></span>
+                                            </div>
+                                            <div class="col-sm-6 col-md-6">
+                                                <span></span>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
-                                <% }); %>
-                                    <hr>
+                                <div class="row">
+                                    <div class="col-sm-6 col-md-6">
+                                        <div class="row hero-item">
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><img src="../src/img/gem.png" class="img-rounded" style="width: 24%"></span>
+                                            </div>
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Gem_1 %></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-6 col-md-6 row">
+                                        <div class="row">
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Gem_2 %></span>
+                                            </div>
+                                            <div class="col-sm-6 col-md-6">
+                                                <span><%= Hero.Gem_3 %></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                            </div>
+                            <div class="col-sm-6 col-md-6">
+                                <% Skills.forEach(function(skill){ %>
+                                    <div class="row">
+                                        <div class="col-sm-3 col-md-3">
+                                            <img src="<%= skill.S_img.url %>" class="img-thumbnail skill-img">
+                                        </div>
+                                        <div class="col-sm-9 col-md-9">
+                                            <div class="hero-skill">
+                                                <span><%= skill.S_Name %></span>
+                                            </div>
+                                            <div class="hero-skill">
+                                                <span>Cool down:</span>
+                                                <span><%= skill.S_CD %></span>
+                                            </div>
+                                            <div>
+                                                <span><%= skill.S_Description %></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <% }); %>
+                                        <hr>
+                            </div>
                         </div>
                     </div>
+                    <%if (Review != undefined){ %>
+                    <dl class="dl-horizontal">
+                        <dt>Storyline: </dt>
+                        <dd>
+                            <%= Review.Storyline %>
+                        </dd>
+                        <dt>Pros: </dt>
+                        <dd>
+                            <%= Review.Pros %>
+                        </dd>
+                        <dt>Cons: </dt>
+                        <dd>
+                            <%= Review.Cons %>
+                        </dd>
+                        <dt>My review: </dt>
+                        <dd>
+                            <%= Review.MyReview %>
+                        </dd>
+                    </dl>
+                    <% } %>
                 </div>
+            </section>
+            <div class="row">
+                <% include ../partials/facebook %>
             </div>
-        </section>
-        <div class="row">
-            <% include ../partials/facebook %>
-        </div>
     </div>
 
     <% include ../partials/footer %>

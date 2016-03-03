@@ -9,6 +9,8 @@ html {
 body {
     font-family: Georgia, "Times New Roman", Times, serif;
     color: #555;
+    background-image: url('../img/sevenknights/background.jpg');
+    background-attachment: fixed;
 }
 h1,
 .h1,
@@ -33,8 +35,7 @@ h6,
  */
 
 .main-content {
-    margin-top: 50px;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
 }
 @media (min-width: 1200px) {
     .container {
@@ -257,7 +258,15 @@ h6,
     color: #BBB !important;
     text-decoration: none;
 }
+<<<<<<< HEAD
+.review-caption{
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    bottom: -15px;
+=======
 .knight-item {
     background-image: url("../img/sevenknights/background.jpg");
     border-radius: 4px;
+>>>>>>> e4c8dbeb171b6bc37f47353291b681475a28b616
 }

@@ -22,9 +22,12 @@ var raidGuide = require('./views/data/raid');
 
 
 app.get('/', function (req, res) {
-    res.render('pages/index', {
-        Title: "Seven Knights",
-        SevenKnights: SevenKnights
+    rest.get(baseURL + 'classes/Configuration', options).on('complete', function (data) {
+        console.log(data.results[0])
+        res.render('pages/index', {
+            Title: "Seven Knights",
+            Config: data.results[0]
+        });
     });
 });
 app.get('/heroes', function (req, res) {
@@ -40,20 +43,30 @@ app.get('/hero', function (req, res) {
         H_Name: req.param('name')
     });
     rest.get(baseURL + 'classes/Heroes?where=' + param, options).on('complete', function (hero) {
-        if (hero.results !== undefined) {
-            rest.get(baseURL + 'classes/Skillsets?where=' + param, options).on('complete', function (skills) {
+        rest.get(baseURL + 'classes/Skillsets?where=' + param, options).on('complete', function (skills) {
+            rest.get(baseURL + 'classes/Reviews?where=' + param, options).on('complete', function (review) {
                 res.render('pages/hero', {
                     Title: req.param('name'),
                     Hero: hero.results[0],
-                    Skills: skills.results
+                    Skills: skills.results,
+                    Review: review.results[0],
                 });
             });
-        } else {
-            res.render('pages/index', {
-                Title: "Seven Knights",
-                SevenKnights: SevenKnights
-            });
-        }
+        });
+        //        if (hero.results !== undefined) {
+        //            rest.get(baseURL + 'classes/Skillsets?where=' + param, options).on('complete', function (skills) {
+        //                res.render('pages/hero', {
+        //                    Title: req.param('name'),
+        //                    Hero: hero.results[0],
+        //                    Skills: skills.results
+        //                });
+        //            });
+        //        } else {
+        //            res.render('pages/index', {
+        //                Title: "Seven Knights",
+        //                SevenKnights: SevenKnights
+        //            });
+        //        }
     });
 });
 app.get('/castlerush', function (req, res) {
