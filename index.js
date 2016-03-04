@@ -23,7 +23,6 @@ var raidGuide = require('./views/data/raid');
 
 app.get('/', function (req, res) {
     rest.get(baseURL + 'classes/Configuration', options).on('complete', function (data) {
-        console.log(data.results[0])
         res.render('pages/index', {
             Title: "Seven Knights",
             Config: data.results[0]
