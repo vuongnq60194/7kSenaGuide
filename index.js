@@ -49,7 +49,7 @@ app.get('/hero', function (req, res) {
                     Title: req.param('name'),
                     Hero: hero.results[0],
                     Skills: skills.results,
-                    Review: review.results[0],
+                    Review: review.results == undefined ? {} : review.results[0],
                 });
             });
         });
