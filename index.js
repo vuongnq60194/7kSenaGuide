@@ -25,7 +25,7 @@ app.get('/', function (req, res) {
     rest.get(baseURL + 'classes/Configuration', options).on('complete', function (data) {
         res.render('pages/index', {
             Title: "Seven Knights",
-            Config: data.results[0]
+            Config: data.results == undefined ? {} data.results[0]
         });
     });
 });
@@ -33,7 +33,7 @@ app.get('/heroes', function (req, res) {
     rest.get(baseURL + 'classes/Heroes', options).on('complete', function (data) {
         res.render('pages/heroes', {
             Title: "Heroes",
-            Heroes: data.results
+            Heroes: data.results == undefined ? [] : data.results
         });
     });
 });
@@ -47,7 +47,7 @@ app.get('/hero', function (req, res) {
                 res.render('pages/hero', {
                     Title: req.param('name'),
                     Hero: hero.results == undefined ? {} : hero.results[0],
-                    Skills: skills.results,
+                    Skills: skills.results == undefined ? [] : skill.results,
                     Review: review.results == undefined ? {} : review.results[0],
                 });
             });
