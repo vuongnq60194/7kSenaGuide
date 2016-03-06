@@ -46,7 +46,7 @@ app.get('/hero', function (req, res) {
             rest.get(baseURL + 'classes/Reviews?where=' + param, options).on('complete', function (review) {
                 res.render('pages/hero', {
                     Title: req.param('name'),
-                    Hero: hero.results[0],
+                    Hero: hero.results == undefined ? {} : hero.results[0],
                     Skills: skills.results,
                     Review: review.results == undefined ? {} : review.results[0],
                 });
