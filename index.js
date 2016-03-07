@@ -25,7 +25,7 @@ app.get('/', function (req, res) {
     rest.get(baseURL + 'classes/Configuration', options).on('complete', function (data) {
         res.render('pages/index', {
             Title: "Seven Knights",
-            Config: data.results == undefined ? {} data.results[0]
+            Config: data.results == undefined ? {} : data.results[0]
         });
     });
 });
