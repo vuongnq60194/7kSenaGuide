@@ -81,8 +81,11 @@ app.get('/raid', function (req, res) {
     });
 });
 app.get('/teambuilder', function (req, res) {
-    res.render('pages/teambuilder', {
-        Title: 'Team Builder'
+    rest.get(baseURL + 'classes/Heroes', options).on('complete', function (data) {
+        res.render('pages/teambuilder', {
+            Title: 'Team Builder',
+            Heroes: data.results == undefined ? [] : data.results
+        });
     });
 });
 

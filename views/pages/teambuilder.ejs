@@ -35,6 +35,196 @@
                 <div class="col-md-2 col-sm-2">
                 </div>
             </div>
+            <div class="row heroes-panel">
+                <div class="col-md-6 col-sm-6">
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <select class="form-control input-sm">
+                                    <option>Hero 1</option>
+                                    <% Heroes.forEach(function(hero){ %>
+                                        <option> 
+                                            6 Stars:
+                                            <%= hero.H_Name %>
+                                        </option>
+                                        <% }); %>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-lv-hero1" class="glyphicon glyphicon-minus"></span>
+                            <span id="lv-hero1" data-value="30">30</span>
+                            <span id="plus-lv-hero1" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-power-hero1" class="glyphicon glyphicon-minus"></span>
+                            <span id="power-hero1" data-value="0">0</span>
+                            <span id="plus-power-hero1" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <select class="form-control input-sm" id="mySelect" data-show-icon="true">
+                                    <option data-subtext="6 <span class='glyphicon glyphicon-star'></span>">Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-lv-hero2" class="glyphicon glyphicon-minus"></span>
+                            <span id="lv-hero2" data-value="30">30</span>
+                            <span id="plus-lv-hero2" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-power-hero2" class="glyphicon glyphicon-minus"></span>
+                            <span id="power-hero2" data-value="0">0</span>
+                            <span id="plus-power-hero2" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <select class="form-control input-sm">
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-lv-hero3" class="glyphicon glyphicon-minus"></span>
+                            <span id="lv-hero3" data-value="30">30</span>
+                            <span id="plus-lv-hero3" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-power-hero3" class="glyphicon glyphicon-minus"></span>
+                            <span id="power-hero3" data-value="0">0</span>
+                            <span id="plus-power-hero3" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <select class="form-control input-sm">
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-lv-hero4" class="glyphicon glyphicon-minus"></span>
+                            <span id="lv-hero4" data-value="30">30</span>
+                            <span id="plus-lv-hero4" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-power-hero4" class="glyphicon glyphicon-minus"></span>
+                            <span id="power-hero4" data-value="0">0</span>
+                            <span id="plus-power-hero4" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <select class="form-control input-sm">
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-lv-hero5" class="glyphicon glyphicon-minus"></span>
+                            <span id="lv-hero5" data-value="30">30</span>
+                            <span id="plus-lv-hero5" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                        <div class="col-md-3 col-sm-3 stats-calculator">
+                            <span id="minus-power-hero5" class="glyphicon glyphicon-minus"></span>
+                            <span id="power-hero5" data-value="0">0</span>
+                            <span id="plus-power-hero5" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-6">
+                    <div class="row">
+                        <div class="col-md-2 col-sm-2">
+                            <label>Leader</label>
+                        </div>
+                        <div class="col-md-6 col-sm-6">
+                            <div class="form-group">
+                                <select class="form-control input-sm">
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                    <option>Hero 1</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="col-md-4 col-sm-4 stats-calculator">
+                            <span id="minus-lv-leader" class="glyphicon glyphicon-minus"></span>
+                            <span id="lv-leader" data-value="30">30</span>
+                            <span id="plus-lv-leader" class="glyphicon glyphicon-plus"></span>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-md-4 col-sm-4">
+                            <label class="label label-info">Physic total</label>
+                            <label class="label label-default">30</label>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <label class="label label-info">Magic total</label>
+                            <label class="label label-default">30</label>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                            <label class="label label-info">Total</label>
+                            <label class="label label-default">30</label>
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-md-4 col-sm-4">
+                            <label class="label label-info">Total speed</label>
+                            <label class="label label-default">30</label>
+                        </div>
+                        <div class="col-md-5 col-sm-5">
+                            <label class="label label-info">Highest speed</label>
+                            <label class="label label-default">30</label>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-md-4 col-sm-4">
+                            <label class="label label-info">Average def</label>
+                            <label class="label label-default">30</label>
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                        </div>
+                        <div class="col-md-4 col-sm-4">
+                        </div>
+                    </div>
+                    <div class="row heroes-panel">
+                        <div class="col-md-3 col-sm-3">
+                            <label class="label label-info">Aura effect</label>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <label class="label label-default">Remove stun</label>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <label class="label label-default">Immune AOE</label>
+                        </div>
+                        <div class="col-md-3 col-sm-3">
+                            <label class="label label-default">Rebirth</label>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
     </div>
     <div>
