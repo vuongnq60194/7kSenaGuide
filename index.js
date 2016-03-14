@@ -4,7 +4,7 @@ var express = require('express');
 var https = require('https');
 var rest = require('restler');
 var app = express();
-var serverPort = 80;
+var serverPort = 8080;
 
 app.set('view engine', 'ejs');
 app.use(express.static(__dirname + '/views'));
@@ -47,7 +47,7 @@ app.get('/hero', function (req, res) {
                 res.render('pages/hero', {
                     Title: req.param('name'),
                     Hero: hero.results == undefined ? {} : hero.results[0],
-                    Skills: skills.results == undefined ? [] : skill.results,
+                    Skills: skills.results == undefined ? [] : skills.results.reverse(),
                     Review: review.results == undefined ? {} : review.results[0],
                 });
             });
@@ -78,6 +78,11 @@ app.get('/raid', function (req, res) {
     res.render('pages/raid', {
         Title: 'Raid',
         guide: raidGuide
+    });
+});
+app.get('/teambuilder', function (req, res) {
+    res.render('pages/teambuilder', {
+        Title: 'Team Builder'
     });
 });
 
