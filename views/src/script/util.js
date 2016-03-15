@@ -85,7 +85,92 @@ $(function () {
         var value = lvCalculate(lvLeader.data().value, lvLeader, "plus");
     });
 
+    $("#select-hero1").change(function () {
+        getHero(this.value).then(function (data) {
+            $("#select-hero1").data("hero", data.results[0]);
+            totalCaculate();
+        });
+    });
+    $("#select-hero2").change(function () {
+        getHero(this.value).then(function (data) {
+            $("#select-hero2").data("hero", data.results[0]);
+            totalCaculate();
+        });
+    });
+    $("#select-hero3").change(function () {
+        getHero(this.value).then(function (data) {
+            $("#select-hero3").data("hero", data.results[0]);
+            totalCaculate();
+        });
+    });
+    $("#select-hero4").change(function () {
+        getHero(this.value).then(function (data) {
+            $("#select-hero4").data("hero", data.results[0]);
+            totalCaculate();
+        });
+    });
+    $("#select-hero5").change(function () {
+        getHero(this.value).then(function (data) {
+            $("#select-hero5").data("hero", data.results[0]);
+            totalCaculate();
+        });
+    });
+    //    $("#select-leader").change(function () {
+    //        updateStats(this.value, $("#select-leader"));
+    //    });
+
 });
+
+//var physic = $("#physicTotal");
+//var magic = $("#magicTotal");
+//var total = $("#dmgTotal");
+
+function getHero(heroName) {
+    var query = JSON.stringify({
+        "H_Name": heroName
+    });
+    return $.ajax({
+        url: 'classes/Heroes',
+        data: 'where=' + query,
+        method: 'get',
+        contentType: 'application/json'
+    }).promise();
+}
+
+function totalCaculate() {
+    var physic = $("#physicTotal");
+    var magic = $("#magicTotal");
+    var total = $("#dmgTotal");
+    var hero1 = $("#select-hero1").data().hero === undefined ? {
+        Attack: 0,
+        Magic: 0
+    } : $("#select-hero1").data().hero;
+    var hero2 = $("#select-hero2").data().hero === undefined ? {
+        Attack: 0,
+        Magic: 0
+    } : $("#select-hero2").data().hero;
+    var hero3 = $("#select-hero3").data().hero === undefined ? {
+        Attack: 0,
+        Magic: 0
+    } : $("#select-hero3").data().hero;
+    var hero4 = $("#select-hero4").data().hero === undefined ? {
+        Attack: 0,
+        Magic: 0
+    } : $("#select-hero4").data().hero;
+    var hero5 = $("#select-hero5").data().hero === undefined ? {
+        Attack: 0,
+        Magic: 0
+    } : $("#select-hero5").data().hero;
+
+    var ttPhy = hero1.Attack + hero2.Attack + hero3.Attack + hero4.Attack + hero5.Attack;
+    var ttMag = hero1.Magic + hero2.Magic + hero3.Magic + hero4.Magic + hero5.Magic;
+    physic.data().value = ttPhy;
+    physic.text(ttPhy);
+    magic.data().value = ttMag;
+    magic.text(ttMag);
+    total.data().value = ttPhy + ttMag;
+    total.text(ttPhy + ttMag);
+}
 
 function lvCalculate(value, lvHero, calculation) {
     if (calculation === "minus") {
@@ -99,6 +184,7 @@ function lvCalculate(value, lvHero, calculation) {
 }
 
 function powerCalculate(value, powerHero, calculation) {
+
     if (calculation === "minus") {
         value = value == 0 ? value : value - 1;
     }

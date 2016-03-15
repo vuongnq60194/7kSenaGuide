@@ -21,6 +21,9 @@ var crGuide = require('./views/data/castlerush');
 var raidGuide = require('./views/data/raid');
 
 
+
+
+
 app.get('/', function (req, res) {
     rest.get(baseURL + 'classes/Configuration', options).on('complete', function (data) {
         res.render('pages/index', {
@@ -52,20 +55,6 @@ app.get('/hero', function (req, res) {
                 });
             });
         });
-        //        if (hero.results !== undefined) {
-        //            rest.get(baseURL + 'classes/Skillsets?where=' + param, options).on('complete', function (skills) {
-        //                res.render('pages/hero', {
-        //                    Title: req.param('name'),
-        //                    Hero: hero.results[0],
-        //                    Skills: skills.results
-        //                });
-        //            });
-        //        } else {
-        //            res.render('pages/index', {
-        //                Title: "Seven Knights",
-        //                SevenKnights: SevenKnights
-        //            });
-        //        }
     });
 });
 app.get('/castlerush', function (req, res) {
@@ -86,6 +75,14 @@ app.get('/teambuilder', function (req, res) {
             Title: 'Team Builder',
             Heroes: data.results == undefined ? [] : data.results
         });
+    });
+});
+
+app.get('/classes/Heroes', function (req, res) {
+    console.log(param)
+    rest.get(baseURL + 'classes/Heroes?where=' + req.param('where'), options).on('complete', function (data) {
+        res.setHeader('Content-Type', 'application/json');
+        res.end(JSON.stringify(data || {}, null, 2));
     });
 });
 
