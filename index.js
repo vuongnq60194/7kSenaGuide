@@ -79,7 +79,6 @@ app.get('/teambuilder', function (req, res) {
 });
 
 app.get('/classes/Heroes', function (req, res) {
-    console.log(param)
     rest.get(baseURL + 'classes/Heroes?where=' + req.param('where'), options).on('complete', function (data) {
         res.setHeader('Content-Type', 'application/json');
         res.end(JSON.stringify(data || {}, null, 2));

@@ -43,7 +43,7 @@
                                 <select id="select-hero1" class="form-control input-sm">
                                     <option>Hero 1</option>
                                     <% Heroes.forEach(function(hero){ %>
-                                        <option value="<%= hero.H_Name %>"> 
+                                        <option value="<%= hero.H_Name %>">
                                             6 Stars:
                                             <%= hero.H_Name %>
                                         </option>
@@ -58,7 +58,7 @@
                         </div>
                         <div class="col-md-3 col-sm-3 stats-calculator">
                             <span id="minus-power-hero1" class="glyphicon glyphicon-minus"></span>
-                            <span id="power-hero1" data-value="0">0</span>
+                            <span id="power-hero1" data-value="5">5</span>
                             <span id="plus-power-hero1" class="glyphicon glyphicon-plus"></span>
                         </div>
                     </div>
@@ -68,7 +68,7 @@
                                 <select id="select-hero2" class="form-control input-sm">
                                     <option>Hero 2</option>
                                     <% Heroes.forEach(function(hero){ %>
-                                        <option value="<%= hero.H_Name %>"> 
+                                        <option value="<%= hero.H_Name %>">
                                             6 Stars:
                                             <%= hero.H_Name %>
                                         </option>
@@ -83,7 +83,7 @@
                         </div>
                         <div class="col-md-3 col-sm-3 stats-calculator">
                             <span id="minus-power-hero2" class="glyphicon glyphicon-minus"></span>
-                            <span id="power-hero2" data-value="0">0</span>
+                            <span id="power-hero2" data-value="5">5</span>
                             <span id="plus-power-hero2" class="glyphicon glyphicon-plus"></span>
                         </div>
                     </div>
@@ -93,7 +93,7 @@
                                 <select id="select-hero3" class="form-control input-sm">
                                     <option>Hero 3</option>
                                     <% Heroes.forEach(function(hero){ %>
-                                        <option value="<%= hero.H_Name %>"> 
+                                        <option value="<%= hero.H_Name %>">
                                             6 Stars:
                                             <%= hero.H_Name %>
                                         </option>
@@ -108,7 +108,7 @@
                         </div>
                         <div class="col-md-3 col-sm-3 stats-calculator">
                             <span id="minus-power-hero3" class="glyphicon glyphicon-minus"></span>
-                            <span id="power-hero3" data-value="0">0</span>
+                            <span id="power-hero3" data-value="5">5</span>
                             <span id="plus-power-hero3" class="glyphicon glyphicon-plus"></span>
                         </div>
                     </div>
@@ -118,7 +118,7 @@
                                 <select id="select-hero4" class="form-control input-sm">
                                     <option>Hero 4</option>
                                     <% Heroes.forEach(function(hero){ %>
-                                        <option value="<%= hero.H_Name %>"> 
+                                        <option value="<%= hero.H_Name %>">
                                             6 Stars:
                                             <%= hero.H_Name %>
                                         </option>
@@ -133,7 +133,7 @@
                         </div>
                         <div class="col-md-3 col-sm-3 stats-calculator">
                             <span id="minus-power-hero4" class="glyphicon glyphicon-minus"></span>
-                            <span id="power-hero4" data-value="0">0</span>
+                            <span id="power-hero4" data-value="5">5</span>
                             <span id="plus-power-hero4" class="glyphicon glyphicon-plus"></span>
                         </div>
                     </div>
@@ -143,7 +143,7 @@
                                 <select id="select-hero5" class="form-control input-sm">
                                     <option>Hero 5</option>
                                     <% Heroes.forEach(function(hero){ %>
-                                        <option value="<%= hero.H_Name %>"> 
+                                        <option value="<%= hero.H_Name %>">
                                             6 Stars:
                                             <%= hero.H_Name %>
                                         </option>
@@ -158,7 +158,7 @@
                         </div>
                         <div class="col-md-3 col-sm-3 stats-calculator">
                             <span id="minus-power-hero5" class="glyphicon glyphicon-minus"></span>
-                            <span id="power-hero5" data-value="0">0</span>
+                            <span id="power-hero5" data-value="5">5</span>
                             <span id="plus-power-hero5" class="glyphicon glyphicon-plus"></span>
                         </div>
                     </div>
@@ -173,7 +173,7 @@
                                 <select id="select-leader" class="form-control input-sm">
                                     <option>Leader</option>
                                     <% Heroes.forEach(function(hero){ %>
-                                        <option value="<%= hero.H_Name %>"> 
+                                        <option value="<%= hero.H_Name %>">
                                             6 Stars:
                                             <%= hero.H_Name %>
                                         </option>
@@ -204,22 +204,22 @@
                     <div class="row heroes-panel">
                         <div class="col-md-4 col-sm-4">
                             <label class="label label-default">Total speed</label>
-                            <label class="label label-info" data-value="0">0</label>
+                            <label class="label label-info" data-value="0" id="speedTotal">0</label>
                         </div>
                         <div class="col-md-5 col-sm-5">
                             <label class="label label-default">Highest speed</label>
-                            <label class="label label-info" data-value="0">0</label>
+                            <label class="label label-info" data-value="0" id="highestSpeed">0</label>
                         </div>
                         <div class="col-md-3 col-sm-3">
 
                         </div>
                     </div>
                     <div class="row heroes-panel">
-                        <div class="col-md-4 col-sm-4">
+                        <div class="col-md-6 col-sm-6">
                             <label class="label label-default">Average def</label>
-                            <label class="label label-info">0</label>
+                            <label class="label label-info" data-value="0" id="averageDef">0</label>
                         </div>
-                        <div class="col-md-4 col-sm-4">
+                        <div class="col-md-2 col-sm-2">
                         </div>
                         <div class="col-md-4 col-sm-4">
                         </div>
