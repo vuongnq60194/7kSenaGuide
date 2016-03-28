@@ -21,9 +21,6 @@ var crGuide = require('./views/data/castlerush');
 var raidGuide = require('./views/data/raid');
 
 
-
-
-
 app.get('/', function (req, res) {
     rest.get(baseURL + 'classes/Configuration', options).on('complete', function (data) {
         res.render('pages/index', {
@@ -84,6 +81,23 @@ app.get('/classes/Heroes', function (req, res) {
         res.end(JSON.stringify(data || {}, null, 2));
     });
 });
+
+//----------------------------
+var csv = require('csv-parser')
+var fs = require('fs')
+
+var array = fs.readFileSync('herotemplate_en.csv').toString().split("\n");
+var heroArray = [];
+for (var i = 0; i < array.length - 1; i++) {
+    var arr = array[i].split("\t");
+    var hero = {}
+
+    hero.Name = arr[1];
+    hero.Desc = arr[3].replace("\\n", "");
+    var str = hero.Desc.replace('"', '')
+
+    console.log(str.replace('"', ''));
+}
 
 app.listen(serverPort, function () {
     console.log('Server is running at port %d (http://localhost:%d)', serverPort, serverPort)

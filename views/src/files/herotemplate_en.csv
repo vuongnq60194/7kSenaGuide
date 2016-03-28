@@ -1,0 +1,488 @@
+1101	Pooki	Tiny Mushroom	"Found in the eastern part of Mystic Woods. He says he hates Goblins, but he just might be scared."	[Easy] Mystic Woods\n[Normal] Mystic Woods\n[Hard] Mystic Woods
+1102	Ahri	Baby Sprout	"A rare, timid plant found in the eastern part of Mystic Woods. Ahri hides when humans are near."	[Easy] Mystic Woods\n[Normal] Mystic Woods\n[Hard] Mystic Woods
+1103	Popo	Slime Guard	"Born from the old tree saps in Mystic Woods, Popo guards Pepe the Slime King."	[Easy] Mystic Woods\n[Normal] Mystic Woods\n[Hard] Mystic Woods
+1104	Pepe	Slime King	He inherited the crown from his father; he hates confrontations. Rumor has it Pepe wears a fake crown\nbecause the real one was too heavy for him.	"[Easy] Mystic Woods 1-5, 1-10\n[Normal] Mystic Woods 1-5, 1-10\n[Hard] Mystic Woods 1-5, 1-10"
+1105	Pon	Panda	He tends to bounce around everywhere. Known to be stubborn and prideful.	[Easy] Mystic Woods 1-6 ~ 1-10\n[Normal] Mystic Woods 1-6 ~ 1-10\n[Hard] Mystic Woods 1-6 ~ 1-10
+1106	Beskin	Goblin	"Found in the northern part of Mystic Woods, this mischeivious Goblin often harasses heroes in Mystic Woods."	[Easy] Mystic Woods 1-6 ~ 1-10\n[Normal] Mystic Woods 1-6 ~ 1-10\n[Hard] Mystic Woods 1-6 ~ 1-10
+1107	Hokin	Goblin Captain	"Captain of the Goblins. Hokin helps his father, the Goblin Chief, who conquered Wind Forest."	[Easy] Mystic Woods 1-10\n[Normal] Mystic Woods 1-10\n[Hard] Mystic Woods 1-10
+1201	Cellops	Giant Spider	A giant spider nesting within Silent Mine. He is in a constant territorial feud with the Giant Bat Babel.	[Easy] Silent Mine\n[Normal] Silent Mine\n[Hard] Silent Mine
+1202	Syllops	Venomous	Syllops inhabits the deepest part of Silent Mine. He grew in size by hunting the wandering monsters\nin the mine with his deadly venom.	[Easy] Silent Mine\n[Normal] Silent Mine\n[Hard] Silent Mine
+1203	Nami	Miner	"After hearing about the abundance of rubies in Silent Mine, greedy Nami decided to dress as a miner\nto fool the Orcs to get in on the mining action."	[Easy] Silent Mine\n[Normal] Silent Mine\n[Hard] Silent Mine
+1205	Babel	Giant Bat	"Found deep within Silent Mine, Babel is in a territorial dispute with the Giant Spider Syllops."	[Easy] Silent Mine 2-6 ~ 2-10\n[Normal] Silent Mine 2-6 ~ 2-10\n[Hard] Silent Mine 2-6 ~ 2-10
+1204	Smoky	Mine Guard	"Originally a famous mercenary, Kobold Smoky is now working for the Orcs as a mine guard.\nHis crossbow skills are second to none."	"[Easy] Silent Mine 2-5, 2-10\n[Normal] Silent Mine 2-5, 2-10\n[Hard] Silent Mine 2-5, 2-10"
+1206	Cocoon	Orc	Cocoon is a devoted follower of the Orc Leader ever since they lived in Blazing Desert.\nHe is a fierce warrior who can wield great power.	[Easy] Silent Mine 2-6 ~ 2-10\n[Normal] Silent Mine 2-6 ~ 2-10\n[Hard] Silent Mine 2-6 ~ 2-10
+1207	Raccoon	Orc Leader	Blazing Desert was previously inhabited by the Orcs before they were kicked out.\nRaccoon earned respect by leading the displaced Orcs to Silent Mine.	[Easy] Silent Mine 2-10\n[Normal] Silent Mine 2-10\n[Hard] Silent Mine 2-10
+1301	Ricky	Hyena	"Found in Blazing Desert, this carnivorous hyena likes to move in packs."	[Easy] Blazing Desert\n[Normal] Blazing Desert\n[Hard] Blazing Desert
+1302	Rowl	Knoll Soldier	"A Knoll's usual weapons include halberds or bows. Usually found roaming Blazing Desert\nwith a pack of hyenas, Knolls love fights where they outnumber the enemy."	[Easy] Blazing Desert\n[Normal] Blazing Desert\n[Hard] Blazing Desert
+1303	Raul	Knoll Archer	"A Knoll's usual weapons include halberds or bows. Usually found roaming Blazing Desert\nwith a pack of hyenas, Knolls love fights where they outnumber the enemy."	[Easy] Blazing Desert\n[Normal] Blazing Desert\n[Hard] Blazing Desert
+1304	Yuri	Three-Tailed Fox	"Born 100 years ago, this fox learned how to disguise herself as a lady.\nAlthough she may seem disinterested, she is a curious fox."	"[Easy] Blazing Desert 3-5, 3-10\n[Normal] Blazing Desert 3-5, 3-10\n[Hard] Blazing Desert 3-5, 3-10"
+1305	Cooper	Armadillo	"Cooper is a carapace monster found in the eastern part of Blazing Desert.\nArmadillo means ""Tiny Animal That Wears Armor"" in Spanish."	[Easy] Blazing Desert 3-6 ~ 3-10\n[Normal] Blazing Desert 3-6 ~ 3-10\n[Hard] Blazing Desert 3-6 ~ 3-10
+1306	Reaper	Scorpion	"Reaper is a scorpion found in the eastern part of Blazing Desert.\nBecause he is not fully grown, his poison isn't too much of a threat."	[Easy] Blazing Desert 3-6 ~ 3-10\n[Normal] Blazing Desert 3-6 ~ 3-10\n[Hard] Blazing Desert 3-6 ~ 3-10
+1307	Leo	Beast	"Leo the Beast possesses the soul of a hunter. After deciding he would rule a region,\nhe began to hunt prey viciously in Black Desert."	[Easy] Blazing Desert 3-10\n[Normal] Blazing Desert 3-10\n[Hard] Blazing Desert 3-10
+1401	Charles	Zombie	"Charles was a famous dancer before he wandered into Dark Grave and was bitten by Zombie Derik.\nHe may be a zombie now, but his body still remembers how to dance!"	[Easy] Dark Grave\n[Normal] Dark Grave\n[Hard] Dark Grave
+1402	Skull	Soldier	"Originally a defender of Dark Grave, he lost his life on the field. Although Lich Bane revived him,\nSkull does not realize he is dead and continues to guard Dark Grave."	[Easy] Dark Grave\n[Normal] Dark Grave\n[Hard] Dark Grave
+1403	Skud	Archer	"Originally a defender of Dark Grave, he lost his life on the field. Although Lich Bane revived him,\nSkull does not realize he is dead and continues to guard Dark Grave."	[Easy] Dark Grave\n[Normal] Dark Grave\n[Hard] Dark Grave
+1404	Derik	Ghoul	"Derik may have started out as a zombie, but because he bit so many victims\nin Dark Grave, he transformed into a ghoul."	"[Easy] Dark Grave 4-5, 4-10\n[Normal] Dark Grave 4-5, 4-10\n[Hard] Dark Grave 4-5, 4-10"
+1405	Ellin	Dark Elf	Sisters Ellin and Ellen are members of the Shadow Clan. Ellin hones her skills in Dark Grave where she assassinates wandering monsters.	[Easy] Dark Grave 4-6 ~ 4-10\n[Normal] Dark Grave 4-6 ~ 4-10\n[Hard] Dark Grave 4-6 ~ 4-10
+1406	Ellen	Dark Elf	"Ellin's older sister. As the ace of the Shadow Clan, she's well versed in the art of archery.\nShe hones her assassination skills alongside her sister in Dark Grave."	[Easy] Dark Grave 4-6 ~ 4-10\n[Normal] Dark Grave 4-6 ~ 4-10\n[Hard] Dark Grave 4-6 ~ 4-10
+1407	Bane	Lich	Bane's obssession with the power of death as a human granted him the blessing of the Undead.\nHe now rules over Dark Grave as a Lich.	[Easy] Dark Grave 4-10\n[Normal] Dark Grave 4-10\n[Hard] Dark Grave 4-10
+1501	Jak	Lizardman	"Found in the southern part of Dragon Ruins, this violent lizard monster loves the taste of human meat\nand will often devour adventurers passing by."	[Easy] Dragon Ruins\n[Normal] Dragon Ruins\n[Hard] Dragon Ruins
+1502	Toto	Troll Lanceman	"The famous twin bounty hunters, Toto and Loto, are getting ready to hunt the Lizardmen living in Dragon Ruins."	[Easy] Dragon Ruins\n[Normal] Dragon Ruins\n[Hard] Dragon Ruins
+1503	Loto	Troll Axeman	Loto is a famous bounty hunter who wields dual axes. He is in Dragon Ruins to hunt lizard monsters.	[Easy] Dragon Ruins\n[Normal] Dragon Ruins\n[Hard] Dragon Ruins
+1504	Jas	Lizardman	"Peculiar for a Lizardman, Jas seems more interested in the hidden art of Lightning magic than hunting humans."	"[Easy] Dragon Ruins 5-5, 5-10\n[Normal] Dragon Ruins 5-5, 5-10\n[Hard] Dragon Ruins 5-5, 5-10"
+1505	Howl	Shaman	Found in the eastern part of Dragon Ruins. He is a highly intelligent shaman\nwho possesses knowledge of the Dark Arts.	[Easy] Dragon Ruins 5-6 ~ 5-10\n[Normal] Dragon Ruins 5-6 ~ 5-10\n[Hard] Dragon Ruins 5-6 ~ 5-10
+1506	Bella	Lamia	"This half-human, half-snake lady lives in Dragon Ruins. Don't be fooled by her beauty though,\nshe will surprise you with great magic powers."	[Easy] Dragon Ruins 5-6 ~ 5-10\n[Normal] Dragon Ruins 5-6 ~ 5-10\n[Hard] Dragon Ruins 5-6 ~ 5-10
+1507	Cleo	Medusa	"Cleo used to be a beautiful woman who used to reside in Dragon Ruins.\nHowever, Athena cursed her into a hideous monster for reasons unknown."	[Easy] Dragon Ruins 5-10\n[Normal] Dragon Ruins 5-10\n[Hard] Dragon Ruins 5-10
+1601	Frose	Ice Lanceman	"Born in Frozen Land, this fairy protects the entrance of his homeland under Lania's instructions."	[Easy] Frozen Land\n[Normal] Frozen Land\n[Hard] Frozen Land
+1602	Fruna	Ice Archer	"With proficient ice archery skills, this spirit protects the entrance of his homeland under Lania's instructions."	[Easy] Frozen Land\n[Normal] Frozen Land\n[Hard] Frozen Land
+1603	Wendy	Snow Monster	Wendy is an ancient arctic monster of Frozen Land. He can magically manipulate thunder and wind.	[Easy] Frozen Land\n[Normal] Frozen Land\n[Hard] Frozen Land
+1604	Kai	Snow Beast	Kai lives west of Frozen Land. He is a natural enemy of the Beast Hunter.	"[Easy] Frozen Land 6-5, 6-10\n[Normal] Frozen Land 6-5, 6-10\n[Hard] Frozen Land 6-5, 6-10"
+1605	Archon	Ice Golem	Lania the Ice Queen created Archon the Ice Golem by transfusing magical power into a piece of ice.	[Easy] Frozen Land 6-6 ~ 6-10\n[Normal] Frozen Land 6-6 ~ 6-10\n[Hard] Frozen Land 6-6 ~ 6-10
+1606	Guppy	Snowman Tamer	No one really knows why the Yeti rescued Guppy from being eaten alive by the beasts.\nGuppy doesn’t seem to realize how dangerous the Snowman is and spends all his time with him.	[Easy] Frozen Land 6-6 ~ 6-10\n[Normal] Frozen Land 6-6 ~ 6-10\n[Hard] Frozen Land 6-6 ~ 6-10
+1607	Lania	Ice Queen	The Ice Queen's reign has lasted for many a year. It is said she does not age because of her magic ice powers.	[Easy] Frozen Land 6-10\n[Normal] Frozen Land 6-10\n[Hard] Frozen Land 6-10
+1701	Happy	Dark Fairy	"Happy was born as a Dark Fairy, capable of using magic at a young age.\nScaring people with her magic is her favorite hobby."	[Easy] Revenger's Hell\n[Normal] Revenger's Hell\n[Hard] Revenger's Hell
+1702	Baron	Gargoyle	"It is every Gargoyle's dream to become Gatekeeper of the Underworld.\nAfter being seduced by Sarah, Baron now protects the Succubi."	[Easy] Revenger's Hell\n[Normal] Revenger's Hell\n[Hard] Revenger's Hell
+1703	Aaron	Warrior	Aaron is a foolish swordsman whose lust for power ultimately led him to the Underworld.	[Easy] Revenger's Hell\n[Normal] Revenger's Hell\n[Hard] Revenger's Hell
+1704	Alli	Minotaur	"Once a powerful beast that supported the Lord of the Underworld,\nAlli was banished when he failed to listen to his master's orders."	"[Easy] Revenger's Hell 7-5, 7-10\n[Normal] Revenger's Hell 7-5, 7-10\n[Hard] Revenger's Hell 7-5, 7-10"
+1705	Clops	One-eyed	"Clops may look slow and dumb, but he possesses great strength.\nHe is found in the southern part of Revenger's Hell."	[Easy] Revenger's Hell 7-6 ~ 7-10\n[Normal] Revenger's Hell 7-6 ~ 7-10\n[Hard] Revenger's Hell 7-6 ~ 7-10
+1706	Sarah	Succubus	Succubi are high class demonesses who seduce adventurers and heroes\nto turn them into slaves or steal their life force.	[Easy] Revenger's Hell 7-6 ~ 7-10\n[Normal] Revenger's Hell 7-6 ~ 7-10\n[Hard] Revenger's Hell 7-6 ~ 7-10
+1707	Knox	Hell Knight	"Before serving as a Hell Knight, Knox was originally an honorable commander\nin Terra, famous for his swordsmanship."	[Easy] Revenger's Hell 7-10\n[Normal] Revenger's Hell 7-10\n[Hard] Revenger's Hell 7-10
+2101	Pooki	Tough	"Pooki trained hard so he wouldn’t get beaten by the despised Goblins, but it seems like he needs more training."	[Normal] Mystic Woods\n[Hard] Mystic Woods
+2102	Ahri	Flower Bud	Baby Sprout Ari matured into a budding flower. She gets more prickly as she blossoms.	[Normal] Mystic Woods\n[Hard] Mystic Woods
+2103	Popo	Copper Slime	Popo's body slime changed to a copper color. Its elasticity and strength has increased.	[Normal] Mystic Woods\n[Hard] Mystic Woods
+2104	Pepe	Silver King	"After his succession to the throne, Pepe grew into his role as king.\nThe intruding Goblins are his main concern as he hates confrontation."	"[Normal] Mystic Woods 1-5, 1-10\n[Hard] Mystic Woods 1-5, 1-10"
+2105	Pon	Stubborn	Pon has equipped himself with various items he collected all over Terra.\nHe is stubborn and not afraid of anything.	[Normal] Mystic Woods 1-6 ~ 1-10\n[Hard] Mystic Woods 1-6 ~ 1-10
+2106	Beskin	Goblin Archer	Beskin is a Goblin Archer who grabbed his bow to raid the Mushrooms and the Slimes living in Mystic Woods.	[Normal] Mystic Woods 1-6 ~ 1-10\n[Hard] Mystic Woods 1-6 ~ 1-10
+2107	Hokin	Tribe Chief	Hokin inherited his title from his father. He leads his army of Goblins and continues\nto strengthen them as he raids Mystic Woods.	[Normal] Mystic Woods 1-10\n[Hard] Mystic Woods 1-10
+2201	Cellops	Dangerous	The giant spider Cellops evolved to acquire a lethal venomous sting and a sharp front pincer by enduring many battles.	[Normal] Silent Mine\n[Hard] Silent Mine
+2202	Syllops	Lethal	Syllops developed its deadly venom by hunting the wandering heroes in the mine.	[Normal] Silent Mine\n[Hard] Silent Mine
+2203	Nami	Armed Miner	"While Nami was secretly mining rubies, she learned that there are many other dangerous beings in the mine.\n She armored up to protect herself."	[Normal] Silent Mine\n[Hard] Silent Mine
+2204	Smoky	Mine Scout	"After Smoky's contract as a hired solder ended, he re-enlisted as a guard protecting the deepest parts of Silent Mine."	"[Normal] Silent Mine 2-5, 2-10\n[Hard] Silent Mine 2-5, 2-10"
+2205	Babel	Deadly Bat	"Using his sharp teeth, Babel feeds on the lost adventurers in Silent Mine."	[Normal] Silent Mine 2-6 ~ 2-10\n[Hard] Silent Mine 2-6 ~ 2-10
+2206	Cocoon	Orc Fighter	This title is bestowed upon the Orc who takes the lead during Orc raids in Silent Mine.	[Normal] Silent Mine 2-6 ~ 2-10\n[Hard] Silent Mine 2-6 ~ 2-10
+2207	Raccoon	Mine Owner	"As the newly relocated Orcs took over Silent Mine, Racoon became the head of the Orcs and the mine."	[Normal] Silent Mine 2-10\n[Hard] Silent Mine 2-10
+2301	Ricky	Starving Hound	Ricky grew violent and irrational because he was deprived of meat for a long time. He prefers to travel alone.	[Normal] Blazing Desert\n[Hard] Blazing Desert
+2302	Rowl	Knoll Warrior	"Rowl became a Knoll warrior by surviving the rough battles he encountered while wandering\naround Blazing Desert. With his better equipment, he leads the soldiers in battle."	[Normal] Blazing Desert\n[Hard] Blazing Desert
+2303	Raul	Knoll Sniper	"Through experience, Raul became a one-shot, one-kill archer, a Knoll Sniper.\nSnipers act as the ultimate weapon, shooting enemies down from the backline."	[Normal] Blazing Desert\n[Hard] Blazing Desert
+2304	Yuri	Charming	The extended exposure to the desert has altered this 500-year old fox's coat color.\nShe possesses relatively great powers and abilities.	"[Normal] Blazing Desert 3-5, 3-10\n[Hard] Blazing Desert 3-5, 3-10"
+2305	Cooper	Armed Armadillo	His spiked metallic carapace aids in his survival. He compromised speed for defense.	[Normal] Blazing Desert 3-6 ~ 3-10\n[Hard] Blazing Desert 3-6 ~ 3-10
+2306	Reaper	Stinger	Reaper's venom grows stronger as he hunts the lost travelers in the dark desert.	[Normal] Blazing Desert 3-6 ~ 3-10\n[Hard] Blazing Desert 3-6 ~ 3-10
+2307	Leo	Predator	He is a cold-blooded vicious predator who got his name from his constant devouring.	[Normal] Blazing Desert 3-10\n[Hard] Blazing Desert 3-10
+2401	Charles	Resurrected Zombie	"Zombie Charles thought he would starve to death. However, he discovered his immortality and now is searching for sustanance to regain his strength."	[Normal] Dark Grave\n[Hard] Dark Grave
+2402	Skull	Warrior	His exceptional swordsmanship earned him the title of Warrior with better weapons and armor.	[Normal] Dark Grave\n[Hard] Dark Grave
+2403	Skud	Sniper	Lich Bane noticed Skull's sharp archery skills in his past life and provided him with better weapons\nto shoot enemies from the backline.	[Normal] Dark Grave\n[Hard] Dark Grave
+2404	Derik	Fearful Ghoul	The most powerful in Dark Grave. He is feared by all.	"[Normal] Dark Grave 4-5, 4-10\n[Hard] Dark Grave 4-5, 4-10"
+2405	Ellin	Agile Dark Elf	Her agility is the result of many hours of training in Dark Grave alongside her sister Dark Elf Ellen.	[Normal] Dark Grave 4-6 ~ 4-10\n[Hard] Dark Grave 4-6 ~ 4-10
+2406	Ellen	Nimble Dark Elf	Ellen's agility allows her to dodge and shoot arrows at the same time.\nShe gained her nimble speed through training with her little sister Dark Elf Ellin.	[Normal] Dark Grave 4-6 ~ 4-10\n[Hard] Dark Grave 4-6 ~ 4-10
+2407	Bane	Magical Lich	"After Bane the Undead Mage became a Lich, he continued to study and increase his power."	[Normal] Dark Grave 4-10\n[Hard] Dark Grave 4-10
+2501	Jak	Human Hunter	Jak grew by devouring countless humans in Dragon Ruins. He earned his nickname\nbecause no one could match his human hunting skills.	[Normal] Dragon Ruins\n[Hard] Dragon Ruins
+2502	Toto	Violent Lanceman	"Toto is in a furious state after his lizard monster hunt failed.\nHis body turned red, an indication of an increase in strength."	[Normal] Dragon Ruins\n[Hard] Dragon Ruins
+2503	Loto	Violent Axeman	"After the failed hunt, Loto has been sharpening his axe.\nNow Loto and Toto are on the hunt for lizard monsters again."	[Normal] Dragon Ruins\n[Hard] Dragon Ruins
+2504	Jas	Sorcerer	He mastered his Lightning magic skills by constantly practicing. Jas is the only magician among the Lizardmen.	"[Normal] Dragon Ruins 5-5, 5-10\n[Hard] Dragon Ruins 5-5, 5-10"
+2505	Howl	Magic Shaman	"Howl obtained his powers by studying forbidden magic, but he doesn’t realize that he's slowly losing himself in the process."	[Normal] Dragon Ruins 5-6 ~ 5-10\n[Hard] Dragon Ruins 5-6 ~ 5-10
+2506	Bella	Fearful Lamia	She consumes the blood of the heroes she comes across in Dragon Ruins.\nShe particularly enjoys the blood of males.	[Normal] Dragon Ruins 5-6 ~ 5-10\n[Hard] Dragon Ruins 5-6 ~ 5-10
+2507	Cleo	Furious Medusa	Cleo lived in hiding deep inside Dragon Ruins after turning into a hideous monster.\nShe became furious because people keep trying to steal her power of turning others into stone.	[Normal] Dragon Ruins 5-10\n[Hard] Dragon Ruins 5-10
+2601	Frose	Ice Guardian	Frose and Fruna earned the title of Ice Guardian from their long-standing history of guarding Frozen Land.	[Normal] Frozen Land\n[Hard] Frozen Land
+2602	Fruna	Ice Guardian	Fruna and Frose earned the title of Ice Guardian from their long-standing history of guarding Frozen Land.	[Normal] Frozen Land\n[Hard] Frozen Land
+2603	Wendy	Violent Yeti	"Whenever thunder and wind ravage Frozen Land, it means Wendy is livid."	[Normal] Frozen Land\n[Hard] Frozen Land
+2604	Kai	Ice Canine	Kai's fangs grew sharp by hunting Beast Hunters. His fangs freeze the target area on contact.	"[Normal] Frozen Land 6-5, 6-10\n[Hard] Frozen Land 6-5, 6-10"
+2605	Archon	Ice Jaeger	"Ice Jaeger Archon protects Frozen Land, killing countless invaders."	[Normal] Frozen Land 6-6 ~ 6-10\n[Hard] Frozen Land 6-6 ~ 6-10
+2606	Guppy	Snowbeast Tamer	"Once they reach a certain size, Yetis gain great power.\nHowever, it isn't certain whether Guppy realizes his friend's incredible strength."	[Normal] Frozen Land 6-6 ~ 6-10\n[Hard] Frozen Land 6-6 ~ 6-10
+2607	Lania	Blizzard Queen	"When Lich Bane's Fearful Ghoul Derick terrorized the Ice Canyon,\nshe instantly summoned a blizzard to seal away the ghoul, earning her nickname."	[Normal] Frozen Land 6-10\n[Hard] Frozen Land 6-10
+2701	Happy	Terrorizing	Happy didn’t just stop with startling humans. Now she controls their minds to play with them.	[Normal] Revenger's Hell\n[Hard] Revenger's Hell
+2702	Baron	Underworld	"After returning to his senses, Baron is training hard to become the Gatekeeper of the Underworld."	[Normal] Revenger's Hell\n[Hard] Revenger's Hell
+2703	Aaron	Gladiator	Aaron became a master swordsman by battling demons of the Underground. His thirst for power is also growing.	[Normal] Revenger's Hell\n[Hard] Revenger's Hell
+2704	Alli	Minotaur King	"Furious at his exiled state, Minotaur Alli is biding time by hunting lower level demons to increase his power."	"[Normal] Revenger's Hell 7-5, 7-10\n[Hard] Revenger's Hell 7-5, 7-10"
+2705	Clops	One-eyed Goblin	They say Clops got a bit smarter since he's now dressing up like a goblin to scare enemies.	[Normal] Revenger's Hell 7-6 ~ 7-10\n[Hard] Revenger's Hell 7-6 ~ 7-10
+2706	Sarah	Alluring	"Sarah has mastered the art of seduction, thanks to years of experience stealing life forces."	[Normal] Revenger's Hell 7-6 ~ 7-10\n[Hard] Revenger's Hell 7-6 ~ 7-10
+2707	Knox	Hell Commander	Knox remembered his past and was reborn as a demon. He was given the role of Commander of the Underworld.	[Normal] Revenger's Hell 7-10\n[Hard] Revenger's Hell 7-10
+3101	Pooki	Enchanted	Pooki earned special powers by consuming the magic fruit of the Mothertree.\nCan the newly improved Pooki hold up against the Goblins?	[Hard] Mystic Woods
+3102	Ahri	Red Petal	A fully blossomed Ahri is rare in Mystic Woods. She is willing to defend her flowers against all who try to pluck them.	[Hard] Mystic Woods
+3103	Popo	Magic Slime	Popo is not aware he turned blue after he ate fruit from the Mothertree.\nThe Mothertree is the largest tree in Mystic Woods.	[Hard] Mystic Woods
+3104	Pepe	Gold King	"Pepe turned gold, thanks to his resolve to protect Forest Verde.\nThe recent invasion of the Goblins has made him anxious."	"[Hard] Mystic Woods 1-5, 1-10"
+3105	Pon	Adventurer	"After a bit of maturing, Pon has decided to go on an adventure.\nHe calls himself an adventurer but hasn’t taken off anywhere yet."	[Hard] Mystic Woods 1-6 ~ 1-10
+3106	Beskin	Elite Archer	Beskin's significant contribution to the plunder of Mystic Woods has earned him the title of Elite Goblin from the Goblin Chief.	[Hard] Mystic Woods 1-6 ~ 1-10
+3107	Hokin	Goblin Chief	Hokin's significant contribution to expanding the Goblin forces has earned him the legendary title of Goblin Chief.	[Hard] Mystic Woods 1-10
+3201	Cellops	Venom King	"His evolution complete, Cellops the Venom King is the only contender in a territorial dispute with Babel."	[Hard] Silent Mine
+3202	Syllops	Tarantula	"His evolution complete, Syllops the Tarantula strikes fear into the Orcs in Silent Mine as the king of spiders."	[Hard] Silent Mine
+3203	Nami	Steel Armor	"Nami bought equipment made of steel with the rubies she secretly mined.\nShe got some suspicious looks from the Orcs, but she grew stronger nonetheless."	[Hard] Silent Mine
+3204	Smoky	Patrol Warden	"While patrolling the deepest parts of Silent Mine, Smoky succeeded in hunting tarantulas.\nRecognizing his skills, Raccoon promoted him to Patrol Warden."	"[Hard] Silent Mine 2-5, 2-10"
+3205	Babel	Terrifyingly Bad	Babel turned blue after killing mages and stealing their magic.\nThey say Babel resembles a ghost in the darkest part of the mine.	[Hard] Silent Mine 2-6 ~ 2-10
+3206	Cocoon	Commando	Cocoon made the biggest contribution during the Orcs' Silent Mine invasion.\nHe directs the two-man Kobold mercenary team and the Orc soldiers.	[Hard] Silent Mine 2-6 ~ 2-10
+3207	Raccoon	Mine Ruler	Raccoon is the owner and the ruler of Silent Mine. He directs the two-man Kobold mercenary team and the Orc soldiers.	[Hard] Silent Mine 2-10
+3301	Ricky	Wild Fang	"Ricky was a starving hound before the Empress of Fodina took him in. Strangely, he obtained unknown powers."	[Hard] Blazing Desert
+3302	Rowl	Knoll General	"Equipped with the various spoils he gathered from Blazing Desert,\nRowl exudes power that no Knoll can match."	[Hard] Blazing Desert
+3303	Raul	Knoll Commander	"Recognized for his speed and archery skills, he leads the group of Knolls who also wield bows.\nKnoll archers and snipers call Raul their commander."	[Hard] Blazing Desert
+3304	Yuri	Twilight Fox	"As the years passed, her body and orb changed color. Her powers commensurated with her years of experience."	"[Hard] Blazing Desert 3-5, 3-10"
+3305	Cooper	Armadillo King	Cooper rescued a group of Armadillos being chased by Catastrophic Reaper\nby blocking him with his armor. Now they follow him everywhere.	[Hard] Blazing Desert 3-6 ~ 3-10
+3306	Reaper	Catastrophic	"Reaper was nicknamed the ""Catastrophic Reaper"" because once you see him, you won't escape alive."	[Hard] Blazing Desert 3-6 ~ 3-10
+3307	Leo	Beast Ruler	Leo finally succeeded in taking over Blazing Desert to become its ultimate ruler.\nHeroes residing in Blazing Desert obey his commands and acknowledge him as ruler.	[Hard] Blazing Desert 3-10
+3401	Charles	Immortal	"Lich Bane infused magic into zombie Charles and took him in as a soldier.\nAlthough he gained power, he became an Undead."	[Hard] Dark Grave
+3402	Skull	General	Lich Bane formed an army of the Undead to invade other territories.\nSkull received his magical powers from Lich Bane to command the Undead as a general.	[Hard] Dark Grave
+3403	Skud	Commander	Lich Bane infused magic into Skud while training his army of the Undead.\nSkud was appointed as Commander of the archers and the snipers.	[Hard] Dark Grave
+3404	Derik	Super Ghoul	"While wandering inside Dark Grave, Derik found a blue gemstone.\nWithout thought, he ate the gem and transformed into a ghoul."	"[Hard] Dark Grave 4-5, 4-10"
+3405	Ellin	Assassin	The two Dark Elf sisters handle the hardest assassination assignments.	[Hard] Dark Grave 4-6 ~ 4-10
+3406	Ellen	Hunter	The two Dark Elf sisters handle the hardest assassination assignments.	[Hard] Dark Grave 4-6 ~ 4-10
+3407	Bane	Nightmarish	"Relentlessly craving the power of the dead, Lich Bane wrote the Grimoire of the Dead.\nIt is said that writing a name in the grimoire could turn the person into an Undead."	[Hard] Dark Grave 4-10
+3501	Jak	Lizardman King	"Lizardmen started operating in groups once the attacks from the bounty hunters began.\nJak, the strongest of them all, became the leader of the Lizardmen."	[Hard] Dragon Ruins
+3502	Toto	Troll Chaser	"Toto is a veteran bounty hunter who has never failed to get his target.\nFamous for hunting lizard monsters, he's now on a mission to capture the Pirate King."	[Hard] Dragon Ruins
+3503	Loto	Troll Chaser	Loto succeeded in tracking down the lizard monster and has earned the title of Chaser.\nApparently his next target is the Pirate King…	[Hard] Dragon Ruins
+3504	Jas	Lizardman Elder	"Lizardmen started operating in groups once the attacks from the bounty hunters began.\nJas, the only one who knows how to use powerful Lightning magic, became an Elder."	"[Hard] Dragon Ruins 5-5, 5-10"
+3505	Howl	Insane Shaman	"Howl's continued use of forbidden magic has rendered him insane.\nWith his insanity, he gained incredible magic power."	[Hard] Dragon Ruins 5-6 ~ 5-10
+3506	Bella	Lamia Queen	Bella grew stronger by consuming a countless amount of blood.\nShe rose to become the Queen of Lamia.	[Hard] Dragon Ruins 5-6 ~ 5-10
+3507	Cleo	Petrifying	"Living deep within Dragon Ruins, Medusa Cleo got her nickname ""Petrifying Cleo""\nby turning people into stone if they crossed her."	[Hard] Dragon Ruins 5-10
+3601	Frose	Arctic Spear	"Elite guardians Frose and Fruna received Lania's blessing. He guards her under the title of ""Arctic Spear."""	[Hard] Frozen Land
+3602	Fruna	Arctic Arrow	"Elite guardians Frose and Fruna received Lania's blessing. He guards her under the title of ""Arctic Arrow."""	[Hard] Frozen Land
+3603	Wendy	Legendary Yeti	"Chosen by the thunder and wind, Wendy grew stronger as time passed.\nWendy is a legendary beast who has no equal in Frozen Land."	[Hard] Frozen Land
+3604	Kai	Saber Tiger	Kai the Saber Tiger was recognized for his experience in fighting various beasts and hunters\nand became the leader of the beasts.	"[Hard] Frozen Land 6-5, 6-10"
+3605	Archon	Cold-hearted	"Archon grows stronger as his heart grows colder.\nAs a reward for his hard work, the Ice Queen gifted him with a frozen heart."	[Hard] Frozen Land 6-6 ~ 6-10
+3606	Guppy	Snowbeast Master	Guppy and the Yeti spent many days growing their friendship.\nThey wander around Frozen Land with their combined powers.	[Hard] Frozen Land 6-6 ~ 6-10
+3607	Lania	Glacial Ruler	"Lania became the true ruler of Frozen Land by protecting Frozen Land and the Ice Canyon for many, many years."	[Hard] Frozen Land 6-10
+3701	Happy	Supervillain	"Happy became a true supervillian, complete with her new outfit. ""Let's play together! It'll be fun! Hehe!"""	[Hard] Revenger's Hell
+3702	Baron	Gatekeeper	"The Lord of the Underworld bestowed unto him demonic powers and the ability to never get tired.\nHe now guards the Underworld, night and day, day and night."	[Hard] Revenger's Hell
+3703	Aaron	Destructive	"Unable to rise above his obsession for power, he made a deal with the devil.\nAlthough he is known as ""Destructive Aaron"", his body no longer belongs to him."	[Hard] Revenger's Hell
+3704	Alli	Maze Master	"As Alli grew stronger from killing demons, the Lord of the Underworld forever vanished him\ndown to the labyrinth in the deepest depths of the Underworld."	"[Hard] Revenger's Hell 7-5, 7-10"
+3705	Clops	Armed One-eyed	"Clops equipped himself with weapons and armor, raising his strength and defense, to serve Knox as a soldier."	[Hard] Revenger's Hell 7-6 ~ 7-10
+3706	Sarah	Succubus Queen	"After living a long life, Sarah became the Succubus Queen.\nHer beauty is enhanced as time passes, garnering envy from other Succubi."	[Hard] Revenger's Hell 7-6 ~ 7-10
+3707	Knox	Hell Imperator	Knox came across immense power after awakening his Sword of the Underworld.\nHe now is the Supremo of the Underworld.	[Hard] Revenger's Hell 7-10
+4001	Evan	Adventurer	Son of the Guardian Commander of Mystic Woods. He is currently on an adventure\nwith Karin to experience new things.	The character is veiled in mystery. Unknown.
+4002	Evan	Leader	His upgraded swordsmanship and leadership reflects his experiences from his adventure.	The character is veiled in mystery. Unknown.
+4003	Evan	Commander	He received the title of Commander from Rudy because of his contribution to defend Mystic Woods from Knox.	The character is veiled in mystery. Unknown.
+4004	Karin	Mage	"Karin lost her family during the Goblin raids. With Evan's help, Karin was able to survive. Now they travel together."	The character is veiled in mystery. Unknown.
+4005	Karin	Healing Mage	Karin learned powerful healing magic as she gained experience during her adventure with Evan.	The character is veiled in mystery. Unknown.
+4006	Karin	Archmage	Karin teaches healing magic to the young mages of Terra. Villagers call her the Archmage.	The character is veiled in mystery. Unknown.
+4007	Jane	Thief	A member of the Shadow Clan. Her specialty is Tier 3 assassinations.\nShe considers the Dark Elf Twins as her rivals.	The character is veiled in mystery. Unknown.
+4008	Jane	Assassin	"Jane seamlessly slipped into her role as an assassin, silently elimimating her targets.\nShe has moved up in the ranks of the Shadow Clan."	The character is veiled in mystery. Unknown.
+4009	Jane	Lethal Assassin	Jane completes Tier 1 assassinations flawlessly. This is a difficult task even for the highest ranks of the Shadow Clan.	The character is veiled in mystery. Unknown.
+4010	Jupy	Sharpshooter	A mischievious little archer who learned how to nock an arrow from her own father. She's known to be accurate.	The character is veiled in mystery. Unknown.
+4011	Jupy	Sniper	Jupy discovered she had eyes like a hawk as she gained more experience.\nShe can shoot a target dead between the eyes even from a long distance.	The character is veiled in mystery. Unknown.
+4012	Jupy	Piercing Arrow	"Jupy's arrows can pierce through anything like a bullet.\nHer friend Snipper the Beast Hunter gave her the nickname ""Piercing Arrow Jupy."""	The character is veiled in mystery. Unknown.
+4013	Snipper	Novice Hunter	"He was originally just a boy living in Frozen Land until his family was killed by a pack of beasts.\nVowing to take revenge, he became a hunter."	The character is veiled in mystery. Unknown.
+4014	Snipper	Beast Hunter	Snipper didn’t settle for his already sharp sniping skills and continued to train.\nHe shows true potential as a hunter of beasts.	The character is veiled in mystery. Unknown.
+4015	Snipper	Veteran Hunter	Snipper succeeded in his hunt for Kai the infamous Saber Tiger.\nThis lead to all of the hunters addressing Snipper as the Veteran Hunter.	The character is veiled in mystery. Unknown.
+4016	Karon	Nature Druid	"A Druid appointed with the task of taking care of the Mothertree, the largest tree in Mystic Woods.\nHe might come across as priggish, but he's only abiding by the laws of nature."	The character is veiled in mystery. Unknown.
+4017	Karon	Elementalist	"People may think he is priggish, but his unparalleled love for Mystic Woods\nhelped him become an elite Elementalist."	The character is veiled in mystery. Unknown.
+4018	Karon	Master Elementalist	"Karon developed into a Master Elementalist, ruling over Mystic Woods and its fairies.\nHis nature magic is second to none. He is also known as the Master of Nature."	The character is veiled in mystery. Unknown.
+4019	Victoria	Pirate	Victoria is the daughter of the fearful Pirate King. It's only natural that\nshe became a pirate herself since she grew up closely observing her father.	The character is veiled in mystery. Unknown.
+4020	Victoria	Outlaw	"As the daughter of the Pirate King, she had to protect herself from bounty hunters.\nVictoria honed her sword and gun skills to protect herself."	The character is veiled in mystery. Unknown.
+4021	Victoria	Pirate Queen	Victoria took over her father's role as the Pirate King.\nShe eventually solidified her place at the helm by getting stronger.	The character is veiled in mystery. Unknown.
+4022	Li	Monk	"Golden Nation monks train in rigorously, living under strict regulations and rules."	The character is veiled in mystery. Unknown.
+4023	Li	Spirited Monk	"Li was one of the elite Golden Nation monks due to his strong will, effort, and natural talent.\nHe has set out on an adventure to hone his skills."	The character is veiled in mystery. Unknown.
+4024	Li	Furious Monk	"When Li came back from his adventure, Golden Nation was in chaos after being raided by the demons.\nFurious, Li broke the forsook his training to get revenge."	The character is veiled in mystery. Unknown.
+4025	Yui	Little Musician	"As the daughter of a troubadour, Yui loves to daydream.\nShe often loses her way because of it, but she has a lot of talent as a trobairitz."	The character is veiled in mystery. Unknown.
+4026	Yui	Troubadour	Yui was able to establish herself as a true trobairitz with her ability to express her feelings through song.	The character is veiled in mystery. Unknown.
+4027	Yui	Maestro	"Although she is young, she is recognized as a great prodigy as evidenced by her incredible skills.\nShe is revered by all troubadours as a Maestro."	The character is veiled in mystery. Unknown.
+4028	Rudy	Guardian	Rudy and Kris were inseparable until the Throne of Light came between them and their friendship.\nRudy now guards Terra from Kris.	The character is veiled in mystery. Unknown.
+4029	Rudy	Light Guardian	Heroes bestowed the title of Light Guardian onto Rudy for being the protector of Mystic Woods.	The character is veiled in mystery. Unknown.
+4030	Rudy	Ultimate Guardian	"As the long-standing protector of Mystic Woods, Rudy was acknowledged as the Ultimate Guardian by many."	The character is veiled in mystery. Unknown.
+4031	Dellons	Grim Reaper	It is not known how Dark Knight Dellons became a Grim Reaper. It seems he hasn't fully become a Reaper\nat heart because he isn't hostile.	The character is veiled in mystery. Unknown.
+4032	Dellons	Death Judge	"Dellons has completed his transformation into a Grim Reaper,\nkilling everything and everyone on sight in Dark Grave."	The character is veiled in mystery. Unknown.
+4033	Dellons	Deadly Monarch	Dellons regained his sanity and went on to become ruler of the unclaimed Dark Grave.\nAll of the Undead are at his command.	The character is veiled in mystery. Unknown.
+4034	Jave	Dragon Knight	Jave was abandoned in Dragon Ruins not knowing who his parents were.\nHe grew up under the protection of the guardian of the ancient ruins.	The character is veiled in mystery. Unknown.
+4035	Jave	Ancient Dragon Knight	Jave learned how to use magic and speak the Human language from his guardian patron.\nHe protects Dragon Ruins alongside other dragons.	The character is veiled in mystery. Unknown.
+4036	Jave	Dragon Patron	Jave became the Dragon Patron and rose to rule Dragon Ruins after a long period of time.	The character is veiled in mystery. Unknown.
+4037	Lucy	Dancer	Her lively character is highlighted by her talent in dancing. She is capable of many shamanic rituals.	The character is veiled in mystery. Unknown.
+4038	Lucy	Spirit Dancer	Lucy soothes the lost and cursed souls with her beautiful dancing and shamanic rituals.	The character is veiled in mystery. Unknown.
+4039	Lucy	Mystical Dancer	Lucy achieved mastery over spiritual powers as she comforted many lost souls.\nPeople address her as the Mystical Dancer because of her rare skill.	The character is veiled in mystery. Unknown.
+4040	Ariel	Light Mage	"Ariel is a cute girl who knows how to use powerful Light magic.\nShe is the younger sister of Rudy, the guardian of Terra."	The character is veiled in mystery. Unknown.
+4041	Ariel	Light Judge	"She bestows judgement on the darkness as an agent of the Light.\nShe rivals Velika the Dark Judge, but she seems to be scared of her."	The character is veiled in mystery. Unknown.
+4042	Ariel	Blessing of Light	"Ariel's role is to bless anyone who serves the way of the Light while traveling to different regions.\n""Blessings unto those who serve the Light!"""	The character is veiled in mystery. Unknown.
+4043	Velika	Dark Mage	Velika is a haughty Dark Mage who rivals Ariel. She studies Dark Magic.	The character is veiled in mystery. Unknown.
+4044	Velika	Dark Judge	"Dark Mages are a low ranking class that worship the demons. However, Velika managed to become\na Dark Judge, one of the highest ranks in the Underworld."	The character is veiled in mystery. Unknown.
+4045	Velika	Dark Fire	"While on an adventure to punish those who follow the way of the Light,\nshe comes across a Mage's stone that enhances her Dark Magic."	The character is veiled in mystery. Unknown.
+4046	Sylvia	Sorcereress	Sylvia had the peculiar ability to see spirits ever since she was young.\nShe is called a sorceress because she learned how to control the spirits as well.	The character is veiled in mystery. Unknown.
+4047	Sylvia	Dark Sorcereress	"When Sylvia went on her quest to gather more knowledge, she absorbed a dark spirit in Dark Grave."	The character is veiled in mystery. Unknown.
+4048	Sylvia	Spirit Sorceress	Sylvia discovered powerful sorcery by controlling the wandering spirits.\nShe received the nickname of Spirit Sorceress while on her quest.	The character is veiled in mystery. Unknown.
+4049	Mimic	Greedy	"Resembling an old treasure chest, this Mimic contains a mysterious black object inside."	The character is veiled in mystery. Unknown.
+4050	Mimic	Treasure Chest	The mouth of this chest is stained with the blood of those who dared to put their hands inside.	The character is veiled in mystery. Unknown.
+4051	Mimic	Pandora's Box	Pandora's Box is beautifully decorated to entice passerbys to open it. Its elegant decorations earned it the name Pandora's Box.	The character is veiled in mystery. Unknown.
+4052	Eileene	Commander	"Regardless of race or gender, power determines everything In the Silent Mine. That is how Eileene came into power."	The character is veiled in mystery. Unknown.
+4053	Eileene	Supreme Commander	Eileene's unstoppable power and relentless commandeering skills landed her the title of Supreme Commander.\nShe plans to expand Silent Mine.	The character is veiled in mystery. Unknown.
+4054	Eileene	Fodina's Empress	Eileene became the Empress of Fodina because of her supreme commandeering skills and power.\nHer plan to expand Silent Mine is ready to be executed.	The character is veiled in mystery. Unknown.
+4055	Rachel	Fiery Flame	Rachel is the eldest daughter of the Royal Agni Family. Rachel's graceful disposition masks\nthe powerful fire spirit inside.	The character is veiled in mystery. Unknown.
+4056	Rachel	Fiery Empress	Rachel became the Fiery Empress of Blazing Desert by learning to control the flames.\nShe was considered the best even within the Agni Family.	The character is veiled in mystery. Unknown.
+4057	Rachel	Phoenix Incarnate	"After rising to the throne as Empress of Blazing Desert, she gave herself the title of Phoenix Incarnate.\nShe is on edge due to the recent invaders in Blazing Desert."	The character is veiled in mystery. Unknown.
+4058	Spike	Ice Berserker	Unconfirmed rumors say Spike is the son of Queen Lania. His bitter cold heart allows him to use powerful Ice Magic as a Berserker.	The character is veiled in mystery. Unknown.
+4059	Spike	Ice Arbiter	Spike became the Ice Judge of Frozen Land by unleashing his savage berserker skills.\nHe wants to make Frozen Land the most powerful of them all.	The character is veiled in mystery. Unknown.
+4060	Spike	Ice Tyrant	"A self-made tyrant with plans to immerse the world in the bitter cold.\nUnless his frozen heart is melted, Spike will never stop."	The character is veiled in mystery. Unknown.
+4061	Kris	Dark Side	"Kris used to be a Knight of Light with Rudy. However, after he lost the Throne of Light to Rudy,\nhe went over to to the dark side to get his revenge."	The character is veiled in mystery. Unknown.
+4062	Kris	Black-hearted	"The dark side did not consume Kris. Instead, he absorbed the dark power and made it his own.\nDemons call him ""Kris the Black-hearted."""	The character is veiled in mystery. Unknown.
+4063	Kris	Hell Lord	Kris the Black-hearted became Lord of the Underworld.\nHe is preparing to invade Terra.	The character is veiled in mystery. Unknown.
+4064	Fire Element	1★	The [#de340c]Fire Element[#] can Rank Up an [#de340c]Offensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4065	Fire Element	2★	The [#de340c]Fire Element[#] can Rank Up an [#de340c]Offensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4066	Fire Element	3★	The [#de340c]Fire Element[#] can Rank Up an [#de340c]Offensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4067	Fire Element	4★	The [#de340c]Fire Element[#] can Rank Up an [#de340c]Offensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4068	Fire Element	5★	The [#de340c]Fire Element[#] can Rank Up an [#de340c]Offensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4069	Water Element	1★	The [#de340c]Water Element[#] can Rank Up a [#de340c]Magic Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4070	Water Element	2★	The [#de340c]Water Element[#] can Rank Up a [#de340c]Magic Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4071	Water Element	3★	The [#de340c]Water Element[#] can Rank Up a [#de340c]Magic Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4072	Water Element	4★	The [#de340c]Water Element[#] can Rank Up a [#de340c]Magic Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4073	Water Element	5★	The [#de340c]Water Element[#] can Rank Up a [#de340c]Magic Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4074	Earth Element	1★	The [#de340c]Earth Element[#] can Rank Up a [#de340c]Defensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4075	Earth Element	2★	The [#de340c]Earth Element[#] can Rank Up a [#de340c]Defensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4076	Earth Element	3★	The [#de340c]Earth Element[#] can Rank Up a [#de340c]Defensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4077	Earth Element	4★	The [#de340c]Earth Element[#] can Rank Up a [#de340c]Defensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4078	Earth Element	5★	The [#de340c]Earth Element[#] can Rank Up a [#de340c]Defensive Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4079	Light Element	1★	The [#de340c]Light Element[#] can Rank Up a [#de340c]Support Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4080	Light Element	2★	The [#de340c]Light Element[#] can Rank Up a [#de340c]Support Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4081	Light Element	3★	The [#de340c]Light Element[#] can Rank Up a [#de340c]Support Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4082	Light Element	4★	The [#de340c]Light Element[#] can Rank Up a [#de340c]Support Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4083	Light Element	5★	The [#de340c]Light Element[#] can Rank Up a [#de340c]Support Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4084	Dark Element	1★	The [#de340c]Dark Element[#] can Rank Up a [#de340c]Universal Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4085	Dark Element	2★	The [#de340c]Dark Element[#] can Rank Up a [#de340c]Universal Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4086	Dark Element	3★	The [#de340c]Dark Element[#] can Rank Up a [#de340c]Universal Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4087	Dark Element	4★	The [#de340c]Dark Element[#] can Rank Up a [#de340c]Universal Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4088	Dark Element	5★	The [#de340c]Dark Element[#] can Rank Up a [#de340c]Universal Hero[#]\nof the same rank by one rank. Can be acquired from Daily Dungeon.	The character is veiled in mystery. Unknown.
+4089	Cheers	Cheerleader	Let's play Seven Knights and cheer while watching soccer!\nWe're giving away items to help you cheer!	The character is veiled in mystery. Unknown.
+5001	Evan	Guardian Warrior	"While Karin was tending the wounded traveler from the east, Evan fought against the pack of Goblins.\nThe traveler gave him magical clothing as a gift."	The character is veiled in mystery. Unknown.
+5002	Karin	Healing Flower	"During her travels, Karin healed the wounded traveler from the east.\nHe gave Karin magical clothing in gratitude."	The character is veiled in mystery. Unknown.
+5003	Lucky	Wealthy	"A mysterious race only found on the Lunar New Year. Rumor has it if you catch one of these, you'll have good financial luck throughout the year."	The character is veiled in mystery. Unknown.
+5004	Lucky	Healthy	"The second of the triplets, he came to spread good fortune regarding health.\nHe worries for Wealthy Lucky, who is busy sightseeing the world."	The character is veiled in mystery. Unknown.
+5005	Lucky	Lovely	"The first of the triplets, he always tries his best to divide his good fortune\nregarding love, but because of his scary eyes, people seem to avoid him."	The character is veiled in mystery. Unknown.
+4100	Hellenia	Celestial Adventurer	"Although her search for her sister was exhausting, she became more powerful day by day.\nAfter finding her sister, she spends her days teaching her sister and waits for the day she can return."	The character is veiled in mystery. Unknown.
+4101	Hellenia	Victorious Valkyrie	A Valkyrie who received the Celestial Shield from the gods as a reward for winning a war.\nShe is a trusted Valkyrie among her allies due to her kindness and superb fighting skills.	The character is veiled in mystery. Unknown.
+4102	Hellenia	Flame Comet	She stays with Evan Expedition for saving her sister.\nIt is said that she fights like a red comet falling from the sky.	The character is veiled in mystery. Unknown.
+4103	Heavenia	Valkyrie Apprentice	"As Hellenia's younger sister, people took notice when Heavenia joined the Valkyries.\nShe worries though because although she trains hard, she isn't improving as fast as she would like."	The character is veiled in mystery. Unknown.
+4104	Heavenia	Frost Blade	Her sharp swordsmanship slices like frostbite. She went missing after a huge explosion swept her\ndown to earth during the war.	The character is veiled in mystery. Unknown.
+4105	Heavenia	Blue Meteor	"Rudy found Heavenia after she fell out of the sky. While being treated by Rudy,\nher twin sister came to rescue her. She grows stronger under her twin sister's training."	The character is veiled in mystery. Unknown.
+4107	Evan	General	"After Evan came back as from his expedition, Rudy bestowed the title of General onto him.\nHe came back stronger than ever and has the skills to defeat the strongest of foes."	The character is veiled in mystery. Unknown.
+4108	Evan	Imperator	"As he prepared to leave on his expedition, he learned that Terra is\nunder threat of attack from Lich Bane and Kris. He was given the title of Imperator."	The character is veiled in mystery. Unknown.
+4109	Karin	Miracle Healer	Rudy called for Karin's help when he found a wounded lady who fell from the sky.\nKarin's miraculous healing powers brought her back to life.	The character is veiled in mystery. Unknown.
+4110	Karin	Saint	Karin left the school to come to the aid of those who need her healing. People began to call her Saint Karin.	The character is veiled in mystery. Unknown.
+4111	Joker	Magician	"No one knows where he came from. He travels around the world performing magic shows,\nsometimes performing at the royal parties."	The character is veiled in mystery. Unknown.
+4112	Joker	Spirit Magician	Joker utilizes his phantom double to swindle people in the gambling den.\nHe manages to escape the dark forces that are after him.	The character is veiled in mystery. Unknown.
+4113	Joker	Phantom Magician	He acquired his ability to control phantoms by paying a handsome fee to Velika\nduring a dark magic experiment. He is able to visualize and give shape to his phantoms.	The character is veiled in mystery. Unknown.
+6010	Lina	Exorcist	Descendant of the legendary Yin-Yang Master Cheong Myung. She has a superb\nunderstanding of Yin-Yang and is savvy with musical instruments.	Moonlit Isle 8-1 ~ 8-20
+6011	Lina	Sonar Exorcist	Lina believes that a great musical performance has the capability of moving all creation.\nLina's moving performance earned her the title of Sonar Exorcist during her adventure.	Moonlit Isle 8-6 ~ 8-20
+6012	Lina	Legendary Muse	"Lina discovered a new method to performing music and awakened a new Yin-Yang philosophy.\nDeemed a worthy descendant of Cheong Myung, she was given the title of Legendary Muse."	Moonlit Isle 8-11 ~ 8-20
+6001	Coco	Blade's Revenge	Coco is a ninja hamster with inferior skills compared to his other siblings.\nHe is constantly harrassed by the cats nearby and is training to get revenge.	Moonlit Isle 8-1 ~ 8-20
+6002	Coco	Persistent Ninja	Coco met Jin while he was feeling down due to his repeated failed attempts to get revenge on the cat.\nHe was inspired by Jin's persistent training and began to train just as hard.	Moonlit Isle 8-2 ~ 8-20
+6003	Coco	Ninpo Master	"After mastering the set of instructions passed down from generation to generation, Coco is finally\nable to stand firm against the cats. ""You can't bite me! I have electricity running through my body!"""	Moonlit Isle 8-3 ~ 8-20
+5006	Leo	Vengeful	Leo wandered around the world after losing to Yuri. He then met Kris who offered him a contract\nand gave him power in return. He is headed back to the desert to get revenge.	[Hard] Blazing Desert 3-10
+5007	Sarah	Kris's Girl Friday	"Sarah became Kris's right hand as the most powerful of all of Succubi. She grew\nstronger by receiving Kris's powers, and only obeys his commands."	[Hard] Revenger's Hell 7-6 ~ 7-10
+6013	Daisy	Lunar Guardian Leader	Daisy is Ace's older sister and the leader of the Lunar Guardians.\nShe studied Yin-Yang and Ninjutsu to protect her little brother.	Moonlit Isle 8-8 ~ 8-20
+6014	Daisy	Night Ruler	"The Lunar Guardians are also known as soldiers of the night. Naturally, the ninjas of the\nLunar Guardians address Daisy as the ruler of the night. Daisy doesn't seem to mind."	Moonlit Isle 8-9 ~ 8-20
+6015	Daisy	Crimson Butterfly	"Deep in the night, the crimson butterfly flutters about as if its body has caught on fire.\nWhile fire moths find their way towards death, the crimson butterfly becomes death itself and find its way to you."	Moonlit Isle 8-9 ~ 8-20
+6007	Jin	Wandering Martial Artist	"Jin wanders around the world searching for strong opponents to prove his power.\nWhen he arrived at Golden Nation to battle with their infamous priests, it was already in ruins."	Moonlit Isle 8-4 ~ 8-20
+6008	Jin	Iron Body	"While leaving of Golden Nation, Jin met Li. However, after losing to Li in a battle,\nJin returned to his hometown to undergo rigorous training."	Moonlit Isle 8-5 ~ 8-20
+6009	Jin	Iron Fist	His iron fists are the fruit of his extreme training; they are capable of breaking anything.	Moonlit Isle 8-5 ~ 8-20
+5008	Yuri	Homebound	"Yuri returned from her adventure as the strongest among all three-tailed foxes.\nShe successfully defeated Leo, a violent maniac."	"[Hard] Blazing Desert 3-5, 3-10"
+5009	Yuri	Explorer	Yuri joined Evan Expedition in an effort to stop Bane and Kris's coalition.\nShe seems very happy to be reunited with Evan again.	"[Hard] Blazing Desert 3-5, 3-10"
+5010	Bane	Ambitious Traitor	"Bane acquired his huge army of the Undead through the Grimoire of the Dead.\nWith the help of Kris, he hopes to take Dark Grave from Dellons."	[Hard] Dark Grave 4-10
+6004	Katty	Feline Child	"Catty was raised and fed by a cat. She is pretty feral due to her wild upbringing.\nShe almost ate a ninja hamster at one point, but decided to let him go."	Moonlit Isle 8-1 ~ 8-20
+6005	Katty	Shield Claw	"She gradually realized the differences between the cat and herself, but she didn't stray.\nShe continues to protect the cat that raised her and doesn't associate with humans."	Moonlit Isle 8-2 ~ 8-20
+6006	Katty	Feline Incarnate	"During the time she didn't associate with humans, when she saw Jin, she attacked him on sight.\nHowever, Jin easily defeated her. Afterwards, she followed him began to train under his tutelage."	Moonlit Isle 8-3 ~ 8-20
+6016	Rei	Azure Dagger	"As a member of the Lunar Guardians, Rei uses a blue dagger.\nThe dagger is gold, but its sharp blade turns blue in the moonlight."	Moonlit Isle 8-6 ~ 8-20
+6017	Rei	Night Soldier	They awaken deep in the night after everyone has fallen asleep.\nThey move in the darkness. They are soldiers of the night.	Moonlit Isle 8-7 ~ 8-20
+6018	Rei	Tenacious	No one can run from Rei forever. Her tenacity is legendary.\nThat's why she is called Tenacious Rei.	Moonlit Isle 8-9 ~ 8-20
+6019	Ace	Young Lord	"After his parents passed away, he became lord of his home. He received the Leader's Sword,\na family heirloom that leaves untreatable wounds. However, he's still not used to it."	Moonlit Isle 8-13 ~ 8-20
+6020	Ace	Great General	"Once he got used to his position, he gathered his army\nto protect his territory and became the Great General."	Moonlit Isle 8-14 ~ 8-20
+6021	Ace	Sword Master	"He was once knocked out in combat, but the moment he was about to be cut in half,\nhis enemy was felled. Rumor has it he heard the voice of his sword and became its true owner."	Moonlit Isle 8-15 ~ 8-20
+4116	Rook	Garrison	A member of the Castle Guard. His only interest is to guard the castle\nso his fellow members jokingly call him the Guard Golem.	The character is veiled in mystery. Unknown.
+4117	Rook	Royal Garrison	"He was promoted to the Royal Garrison for being dutiful.\nHowever, he continues to be humble and focuses solely on his missions."	The character is veiled in mystery. Unknown.
+4118	Rook	Royal Guard	"He was eventually promoted to the Royal Guard at Chancellor's recommendation.\nBecause he always had the skill to become a Royal Guard, no one opposed his appointment."	The character is veiled in mystery. Unknown.
+4119	Chancellor	Garrison Leader	"He originally became a knight out of respect for Knox, but when Knox become corrupted,\nhis respect turned to loathing and he vowed to become a true knight."	The character is veiled in mystery. Unknown.
+4120	Chancellor	Royal Garrison Leader	"He met Rook for the first time while he was the Royal Garrison Leader.\nInspired by Rook's devotion to the Knighthood, Chancellor vowed to train even harder."	The character is veiled in mystery. Unknown.
+4121	Chancellor	Royal Bodyguard Leader	He once singlehandedly captured all the infiltrated spies and became the Royal Guard Leader.\nThose captives stated that he looked like an evil while attacked them laughing.	The character is veiled in mystery. Unknown.
+4125	Ruri	Bounty Hunter	"She was an orphan from the slums, but that didn't let her down.\nTo care for her frail younger sister, Ruri became a bounty hunter."	Mist Isle 8-16 ~ 8-20
+4126	Ruri	Chaser	"Despite all her efforts, she couldn't cure her sister's illness and was only able to stablize it.\nWhen she learned about Joker the master swindler, she began to hunt him."	Mist Isle 8-16 ~ 8-20
+4127	Ruri	Sacred Bullet	"In the end, she was able to collect a massive reward for capturing Joker. She was able to get\ntreatment for her sister and donated the rest to the orphanage. Unfortunately, Joker escaped using his magic."	Mist Isle 8-16 ~ 8-20
+4122	May	Courier	"Hi, I'm May the postal worker! I love two things: the night sky and JOKER!\nI really dislike like fish. Ah, this night reminds me of Joker~!"	The character is veiled in mystery. Unknown.
+4123	May	Express Courier	"Swift and accurate! My bullet will... Er, I will deliver your goods like a bullet! Heh."	The character is veiled in mystery. Unknown.
+4124	May	Love Courier	"I deliver everyone's love letters every day, but I can't send my own. Where are you, Joker?"	The character is veiled in mystery. Unknown.
+4128	Espada	Special Agent	"A special combat unit member of the Crusaders. Abandoned by her parents as a child,\nshe began her training early with the Crusaders. Guns and broadswords are her specialty."	Mist Isle 8-16 ~ 8-20
+4129	Espada	Last Survivor	"A great tragedy struck during one of her missions. She was the only survivor. The price she paid?\nDemon blood now flows through her body, causing everyone to give her a wide berth."	Mist Isle 8-16 ~ 8-20
+4130	Espada	Demon Hunter	Her demon blood makes her stronger than other humans. She vows to get revenge on the demons.\nShe is now known as the Demon Hunter.	Mist Isle 8-16 ~ 8-20
+4131	Nia	Rusty Bolt &	"She used to lead an ordinary life, but strangely became a genius after the lunar eclipse.\nShe is an excellent artisan. Just give her material and she'll build you anything. Bolt is Nia's robot."	Mist Isle 8-16 ~ 8-20
+4132	Nia	Improved Bolt &	The first incarnation of Bolt was weak to water and made of rusty old junk.\nThis second incarnation is now water-resistant.	Mist Isle 8-16 ~ 8-20
+4133	Nia	Magically-engineered Bolt &	"A wandering magician saw Bolt and helped Nia make further improvements to Bolt.\nA magic gem was embedded in Bolt's chest, making him even stronger."	Mist Isle 8-16 ~ 8-20
+5501	Destroyer Gaze	Ancient Dragon	1	The character is veiled in mystery. Unknown.
+5502	Destroyer Gaze	Ancient Dragon	1	The character is veiled in mystery. Unknown.
+9501	Rachel	Fiery Flame	Rachel is the eldest daughter of the Royal Agni Family. Rachel's graceful disposition masks\nthe powerful fire spirit inside.	The character is veiled in mystery. Unknown.
+9502	Rachel	Fiery Empress	Rachel became the Fiery Empress of Blazing Desert by learning to control the flames.\nShe was considered the best even within the Agni Family.	The character is veiled in mystery. Unknown.
+9503	Rachel	Phoenix Incarnate	"After rising to the throne as Empress of Blazing Desert, she gave herself the title of Phoenix Incarnate.\nShe is on edge due to the recent invaders in Blazing Desert."	The character is veiled in mystery. Unknown.
+9004	Cleo	Medusa	"Cleo used to be a beautiful woman who used to reside in Dragon Ruins.\nHowever, Athena cursed her into a hideous monster for reasons unknown."	[Easy] Dragon Ruins 5-10\n[Normal] Dragon Ruins 5-10\n[Hard] Dragon Ruins 5-10
+9005	Cleo	Furious Medusa	Cleo lived in hiding deep inside Dragon Ruins after turning into a hideous monster.\nShe became furious because people keep trying to steal her power of turning others into stone.	[Normal] Dragon Ruins 5-10\n[Hard] Dragon Ruins 5-10
+9006	Cleo	Gaze of Destruction	"Furious Medusa Cleo turns all intruders into stone, earning her the title of Gaze of Destruction."	[Hard] Dragon Ruins 5-10
+9007	Lania	Ice Queen	She was the ice queen of Frozen Land from ages ago.Her powerful ice magic keeps her from aging.	[Easy] Frozen Land 6-10\n[Normal] Frozen Land 6-10\n[Hard] Frozen Land 6-10
+9008	Lania	Blizzard Queen	"When Lich Bane's Fearful Ghoul Derick terrorized the Ice Canyon,\nshe instantly summoned a blizzard to seal away the ghoul, earning her nickname."	[Normal] Frozen Land 6-10\n[Hard] Frozen Land 6-10
+9009	Lania	Glacial Ruler	"As she continued to watch over Frozen Land and Ice Canyon,\nshe gradually became the true ruler of the land."	[Hard] Frozen Land 6-10
+4134	Shane	Demonic Experiment	"The Crusaders thought that the power of humans wasn't enough to resist the demons,\nso they experimented with transferring demonic powers to humans. Shane was the subject of that experiment."	Mist Isle 8-16 ~ 8-20
+4135	Shane	Special Agent	"She became a Special Agent on the Crusaders. With her demonic powers,\nshe uses her superior strength to slay all her enemies."	Mist Isle 8-16 ~ 8-20
+4136	Shane	Demon Sealer	"She almost lost her body to a demon when her powers went berserk, but she sealed\nthe demon away in time. However, just in case, she now carries the seal with her everywhere."	Mist Isle 8-16 ~ 8-20
+9010	Knox	Hell Knight	"Before serving as a Hell Knight, Knox was originally an honorable commander\nin Terra, famous for his swordsmanship."	[Easy] Revenger's Hell 7-10\n[Normal] Revenger's Hell 7-10\n[Hard] Revenger's Hell 7-10
+9011	Knox	Hell Commander	Knox remembered his past and was reborn as a demon. He was given the role of Commander of the Underworld.	[Normal] Revenger's Hell 7-10\n[Hard] Revenger's Hell 7-10
+9012	Knox	Hell Imperator	Knox came across immense power after awakening his Sword of the Underworld.\nHe now is the Supremo of the Underworld.	[Hard] Revenger's Hell 7-10
+9504	Jupy	Sharpshooter	A mischievious little archer who learned how to nock an arrow from her own father. She's known to be accurate.	The character is veiled in mystery. Unknown.
+9505	Jupy	Sniper	Jupy discovered she had eyes like a hawk as she gained more experience.\nShe can shoot a target dead between the eyes even from a long distance.	The character is veiled in mystery. Unknown.
+9506	Jupy	Piercing Arrow	"Jupy's arrows can pierce through anything like a bullet.\nHer friend Snipper the Beast Hunter gave her the nickname ""Piercing Arrow Jupy."""	The character is veiled in mystery. Unknown.
+4137	Sieg	Demonic Sword	"The guys above must want to kill me since they gave me this as a weapon.\nWell, I'm the only one who can use it anyway."	Mist Isle 8-16 ~ 8-20
+4138	Sieg	Demon Destroyer	I can take on 100 demons by myself! Bring it on!	Mist Isle 8-16 ~ 8-20
+4139	Sieg	Demon Dominator	"I don't remember exactly when, but this thing went haywire one time.\nI had to beat it down. Hahaha."	Mist Isle 8-16 ~ 8-20
+7004	Zhao Yin	Wise Leader	His nickname was Little Dragon for his mental and combat prowess.\nHe enlisted when he heard Quan Yu was looking for more soldiers.	Crimson Canyon
+7005	Zhao Yin	Tiger General	A fearless general. He got his nickname when he penetrated\nthrough enemy defense to rescue his comrades.	Crimson Canyon
+7006	Zhao Yin	Chancellor	"Zhao Yun was given the title of Righteous Chancellor when Quan Yu\nbecame the Virtuous King. However, the citizens insisted on calling him the Righteous King."	Crimson Canyon
+7010	Tsing Tao	Drunken Panda	A panda that delivers the alcohol that is drunk in taverns and restaurants. He loves alcohol.\nHe always carries around some for himself. He's also in charge of keeping the peace in town.	Land of Emperor 9-6 ~ 9-10
+7011	Tsing Tao	Drunken Fist	"He happened to buy an old book about Drunken Fighting from the market. He was interested since it\ninvolved drinking, but it wasn't easy to learn. But still, he enjoys it because he gets to drink."	Land of Emperor 9-6 ~ 9-10
+7012	Tsing Tao	Drunken Master	"He started Drunken Fighting just for fun, but he eventually got the hang it.\nHe's now able to drink and not get drunk while beating up his enemies."	Land of Emperor 9-6 ~ 9-10
+7019	Sun Wukong	Monkey King	"A stone monkey born in the Mountain of Flowers and Fruit. Born with a tough body,\nhe was able to dominate other living beings on the mountain and rose to the throne."	The character is veiled in mystery. Unknown.
+7020	Sun Wukong	Heavenly Guardian	"He was such a troublemaker that the Jade Emperor made him Keeper of the Cloud Horses to keep him occupied. When he\nlearned that his duty was a farce, he caused more trouble. He ended up guarding the peaches in Heavenly Garden."	The character is veiled in mystery. Unknown.
+7021	Sun Wukong	Enlightened Warrior	"His mischief caused him to be locked away, but Xuanzang the monk rescued him. He joined the monk\nin his journey and was recognized for his accomplishments, eventually earning Buddhahood."	The character is veiled in mystery. Unknown.
+7007	Mao Song	Tiger Slayer	"On his way home after his journey, he came across people too terrified\nof the wild tiger to venture out. He caught the tiger with his bare hands."	Land of Emperor 9-6 ~ 9-10
+7008	Mao Song	Town Guardian	"News of his feat spread to his hometown and when\nhe returned home, he was appointed the Town Guardian."	Land of Emperor 9-6 ~ 9-10
+7009	Mao Song	Leader	He formed an organization that is responsible for fending off bandits\nand became its leader. His fame has spread far and wide.	Land of Emperor 9-6 ~ 9-10
+9507	Sun Wukong	Monkey King	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9508	Sun Wukong	Monkey King	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9509	Sun Wukong	Monkey King	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9510	Sun Wukong	Monkey King	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9511	Sun Wukong	Heavenly Garden Guardian	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9512	Sun Wukong	Heavenly Garden Guardian	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9513	Sun Wukong	Heavenly Garden Guardian	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9514	Sun Wukong	Heavenly Garden Guardian	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9515	Sun Wukong	All-powerful Demon	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9516	Sun Wukong	All-powerful Demon	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9517	Sun Wukong	All-powerful Demon	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+9518	Sun Wukong	All-powerful Demon	Sun Wukong's phantom double.	The character is veiled in mystery. Unknown.
+5011	Sesame Rice Cake	2★	A mysterious species that tends to appear and disappear.\nThey say this rice cake will bring fortune to its eater.	The character is veiled in mystery. Unknown.
+5012	Ramie Rice Cake	3★	A mysterious species that tends to appear and disappear.\nThey say this rice cake will bring fortune to its eater.	The character is veiled in mystery. Unknown.
+5013	Bean Rice Cake	4★	A mysterious species that tends to appear and disappear.\nThey say this rice cake will bring fortune to its eater.	The character is veiled in mystery. Unknown.
+5014	Honey Rice Cake	5★	A mysterious species that tends to appear and disappear.\nThey say this rice cake will bring fortune to its eater.	The character is veiled in mystery. Unknown.
+5015	Flower Rice Cake	6★	A mysterious species that tends to appear and disappear.\nThey say this rice cake will bring fortune to its eater.	The character is veiled in mystery. Unknown.
+7031	Dragon	Lake Guardian	The Serpent spent many years polishing the stone to earn the Dragon Orb to become a Dragon.\nGuards the lake and all the beings in it.	Land of Emperor 9-1 ~ 9-5
+7032	Dragon	River Guardian	"While guarding the lake, the Dragon began to polish the stone again to earn the Dragon Orb to become the River\nGuardian. He has the power to control the oceans, but since the Sea King Dragon resides there, he remains in the river."	Land of Emperor 9-1 ~ 9-5
+7033	Dragon	Master of Rain	"After protecting the river for very long time, the Dragon can forever fly in the sky\nto rule over the clouds, wind, and rain. That's why this Dragon can summon the rain in a drought."	Land of Emperor 9-1 ~ 9-5
+7034	Phoenix	Sunrise Guardian	"Phoenix the Sunrise Guardian resides in the east where the sun rises.\nHis bird cries, during sunrise, sonds like a bamboo flute."	Land of Emperor 9-1 ~ 9-5
+7035	Phoenix	East Bird	"While living in the east, he also acted as its protector from time to time\nso the people thought he was the Bird of the East."	Land of Emperor 9-1 ~ 9-5
+7036	Phoenix	Bird King	"Phoenix is the king of the birds with the power to summon them at will.\nSince he doesn't eat living bugs or grass and harm living beings, he became the ideal monarch."	Land of Emperor 9-1 ~ 9-5
+7028	Soi	Hawk Hunter	"Born into nobility, she followed her father on hunts\nwith their hawks. She can even hunt alone now."	Land of Emperor 9-1 ~ 9-5
+7029	Soi	Hawk Archer	She also trained in archery on top of hawk hunting.\nNow she can command her hawk to hunt on its own.	Land of Emperor 9-1 ~ 9-5
+7030	Soi	Hawkeye	"The duo is so in sync that she can even read into her hawk's eyes,\nearning her the nickname Hawkeye."	Land of Emperor 9-1 ~ 9-5
+7025	Feng Yan	Chivalrous Wind Knight	"He fought in wars at a young age, but lost his way after losing his commander. However, his sense of chivalry\nwas so strong that as he helped people on his travels he earned the nickname Chivalrous Wind Knight."	Land of Emperor 9-1 ~ 9-5
+7026	Feng Yan	Storm Blade	He learned how to wield a sword expertly under Soi's father's tutelage and became famous for it.\nHis ability to wield various swords earned him the nickname of Storm Blade.	Land of Emperor 9-1 ~ 9-5
+7027	Feng Yan	Swordwind Lord	His relentless practices eventually earned him the nickname\nSwordwind Lord. No one can surpass his ability to wield all swords.	Land of Emperor 9-1 ~ 9-5
+4090	Mimic	Golden Chest	1	The character is veiled in mystery. Unknown.
+9710	Test	Test	1	The character is veiled in mystery. Unknown.
+9711	Test	Test	1	The character is veiled in mystery. Unknown.
+7037	Ling Ling	Ki Trainee	"Born weak, her parents sent her to a dojo to get stronger.\nShe kept getting stronger and eventually became quite skilled."	Land of Emperor 9-6 ~ 9-10
+7038	Ling Ling	Tarnished Energy	"She mastered different types of energy, but the energy in\nher own body was tarnished. She ended up using tarnished energy."	Land of Emperor 9-6 ~ 9-10
+7039	Ling Ling	Pure Energy	"She cleansed her body of the tarnished energy,\nearning her master's praise for successfully cleansing herself."	Land of Emperor 9-6 ~ 9-10
+7040	Bai Long	Martial Artist	"Originally a trainee of Golden Nation, its unsociable rules\ndrove him away. He now trains by himself."	Land of Emperor 9-6 ~ 9-10
+7041	Bai Long	Vigilante Leader	"After a thief stole all of his worldly possesions, he formed\na group of vigilantes to maintain the peace."	Land of Emperor 9-6 ~ 9-10
+7042	Bai Long	Flash Fist	"He was once called the Golden Fist, but his agility earned him\nthe nickname Flash Fist. Now people refer to him as Flash Fist."	Land of Emperor 9-6 ~ 9-10
+7022	Diao Chen	Maid	"She was once the handmaiden of a lord in a small town, but when a group of bandits\nburned down her town, she was barely able to escape with her life."	Crimson Canyon
+7023	Diao Chen	Moon Flower	Her beauty and voice makes her very popular with men.\nShe's sometimes called Moon Flower due to her radiant beauty during the night.	Crimson Canyon
+7024	Diao Chen	Hidden Moon	"Her beauty is so great it can make the moon blush,\ncausing it to shyly hide behind clouds. Her nickname is Hidden Moon."	Crimson Canyon
+5016	Ahri	100 Year Plant	A cute plant that appears in the Saturday Dungeon [Hell].\nBe sure to show it your love!	The character is veiled in mystery. Unknown.
+5017	Pooki	Millennium Mushroom	A cute mushroom that appears in the Saturday Dungeon [Hell].\nBe sure to show it your love!	The character is veiled in mystery. Unknown.
+5018	Happy	Eternal Brat	A cute fairy that appears in the Saturday Dungeon [Hell].\nBe sure to show it your love!	The character is veiled in mystery. Unknown.
+5019	Ruri	Berserk Witch	Not even a blitz is painful if it's launched softly!\nOnly appears in the Halloween Dungeon.	The character is veiled in mystery. Unknown.
+5020	Espada	Death Nurse	A heaven-bound name from the gods.\nOnly appears in the Halloween Dungeon.	The character is veiled in mystery. Unknown.
+5021	Nia	Professor Franken	Ha! Look at this! I improved it!\nOnly appears in the Halloween Dungeon.	The character is veiled in mystery. Unknown.
+5022	Shane	Demon Cat	Meow...\nOnly appears in the Halloween Dungeon.	The character is veiled in mystery. Unknown.
+5023	Sieg	Chainsaw Killer	I'll slice through everything!\nOnly appears in the Halloween Dungeon.	The character is veiled in mystery. Unknown.
+4140	Ming Ming	Lucky	Ling Ling's mom found him unconscious in front\nof Ling Ling's home. Ming Ming is thought to be the child of luck.	The character is veiled in mystery. Unknown.
+4141	Ming Ming	Affluence Seed	"One day, Ming Ming was found crying due to the drought.\nThe very next day, the drought ended and the crops began to grow again."	The character is veiled in mystery. Unknown.
+4142	Ming Ming	Sprout's Friend	"He sometimes goes out to the fields on his own to reminisce,\nbut sometimes it feels like he can communicate with the plants."	The character is veiled in mystery. Unknown.
+4143	Black Rose	Secret Agent	"She entered this world through a mysterious rift.\nA secret spy, she silently collects intel on this world."	The character is veiled in mystery. Unknown.
+4144	Black Rose	Dark Infiltrator	"Although she was adjusting to life in this world, she was still looking for a way home.\nHowever, when the Shadow Clan gave her an offer, she accepted."	The character is veiled in mystery. Unknown.
+4145	Black Rose	Nocturnal Flower	She quickly rose through the ranks and became one of the top clan members.\nThe way she mercilessly carries out her missions is also quite a sight to behold.	The character is veiled in mystery. Unknown.
+7043	Lu Bu	Fengxian	"An orphan who resorted to stealing and fighting in order to survive.\nOne day, he was discovered by a government official who drafted him into the army."	Crimson Canyon 9-13 ~ 9-15
+7044	Lu Bu	General	"When he learned that the officials he served would frequently\nexploit the citizens, he swiftly brought justice upon the corrupt officials."	Crimson Canyon 9-13 ~ 9-15
+7045	Lu Bu	Invincible	"When the rumors of his greatness spread, he found himself having to defend himself against other generals in front of\nthe emperor. He came out of the battles undefeated and was named Invincible by the emperor."	Crimson Canyon 9-13 ~ 9-15
+7016	Quan Yu	Lucky General	"The world was thrown into turmoil when the Seven Knights appeared.\nCorrupt forces sprang up left and right, but he suppressed them to restore peace in the world."	Crimson Canyon
+7017	Quan Yu	Five Tiger General	"As peace was regaining foothold in the world, other forces also seeking peace appeared. Five great generals,\ncalled the Five Tiger Generals, distinguished themselves from the group. He was the strongest out of them."	Crimson Canyon
+7018	Quan Yu	Virtuous King	"With the support of the people, he was crowned king. Known as the Virtuous King,\nhe brought peace and order to the world during his rule."	Crimson Canyon
+7046	Zhuge Liang	Sleeping Dragon	"He led a peaceful life of academic pursuit in the countryside. Though he doesn't work for the government,\nhe makes sure to voice his criticisms. People refer to him as the Sleeping Dragon."	Crimson Canyon
+7047	Zhuge Liang	Strategist	"Quan Yu sought out Zhuge Liang three times. After much persuasion, Zhuge Liang finally agreed to lend his land.\nGuan Yu claimed that Zhuge Liang was a peerless strategist, often comparing him to Confucius."	Crimson Canyon
+7048	Zhuge Liang	Great Strategist	"When Quan Yu became king, he referred to Zhuge Liang as the Great Strategist.\nHe continued to serve Quan Yu and offered advice on political affairs."	Crimson Canyon
+4146	Rook	Black Garrison	A member of the Castle Guard. His only interest is to guard the castle\nso his fellow members jokingly call him the Guard Golem.	Castle Rush Reward(All Rank)
+4147	Rook	Black Royal Garrison	"He was promoted to the Royal Garrison for being dutiful.\nHowever, he continues to be humble and focuses solely on his missions."	Castle Rush Reward(Above C Rank)
+4148	Rook	Black Royal Guard	"He was eventually promoted to the Royal Guard at Chancellor's recommendation.\nBecause he always had the skill to become a Royal Guard, no one opposed his appointment."	Castle Rush Reward(Above C Rank)
+4149	Chancellor	Black Garrison Leader	"He originally became a knight out of respect for Knox, but when Knox become corrupted,\nhis respect turned to loathing and he vowed to become a true knight."	Castle Rush Reward(All Rank)
+4150	Chancellor	Black Royal Garrison Leader	"He met Rook for the first time while he was the Royal Garrison Leader.\nInspired by Rook's devotion to the Knighthood, Chancellor vowed to train even harder."	Castle Rush Reward(Above C Rank)
+4151	Chancellor	Black Royal Guard Leader	He once singlehandedly captured all the infiltrated spies and became the Royal Guard Leader.\nThose captives stated that he looked like an evil while attacked them.	Castle Rush Reward(Above C Rank)
+5024	Fina	Transcender	One of the goddess's blessings. She's able to transcend heroes beyond their limit.	The character is veiled in mystery. Unknown.
+5025	Leah	Unlocker	One of the goddess's blessings. She unlocks slots to bring out the heroes' full inner potential.	The character is veiled in mystery. Unknown.
+9013	Daisy	Moon Guardian Leader	Daisy is Ace's older sister and the leader of the Lunar Guardians.\nShe studied Yin-Yang and Ninjutsu to protect her little brother.	Moonlit Isle 8-8 ~ 8-15
+9014	Daisy	Night Ruler	"The Lunar Guardians are also known as soldiers of the night. Naturally, the ninjas of the\nLunar Guardians address Daisy as the ruler of the night. Daisy doesn't seem to mind."	Moonlit Isle 8-9 ~ 8-15
+9015	Daisy	Crimson Butterfly	"Deep in the night, the crimson butterfly flutters about as if its body has caught on fire.\nWhile fire moths find their way towards death, the crimson butterfly becomes death itself and find its way to you."	Moonlit Isle 8-9 ~ 8-15
+9016	Rudy	Ultimate Guardian	"As the long-standing protector of Mystic Woods, Rudy was acknowledged as the Ultimate Guardian by many."	The character is veiled in mystery. Unknown.
+9017	Eileene	Fodina's Empress	Eileene became the Empress of Fodina because of her supreme commandeering skills and power.\nHer plan to expand Silent Mine is ready to be executed.	The character is veiled in mystery. Unknown.
+9018	Rachel	Phoenix Incarnate	"After rising to the throne as Empress of Blazing Desert, she gave herself the title of Phoenix Incarnate.\nShe is on edge due to the recent invaders in Blazing Desert."	The character is veiled in mystery. Unknown.
+9019	Dellons	Deadly Monarch	Dellons regained his sanity and went on to become ruler of the unclaimed Dark Grave.\nAll of the Undead are at his command.	The character is veiled in mystery. Unknown.
+9020	Jave	Dragon Patron	Jave became the Dragon Patron and rose to rule Dragon Ruins after a long period of time.	The character is veiled in mystery. Unknown.
+9021	Spike	Ice Tyrant	"A self-made tyrant with plans to immerse the world in the bitter cold.\nUnless his frozen heart is melted, Spike will never stop."	The character is veiled in mystery. Unknown.
+9022	Kris	Hell Lord	Kris the Black-hearted became Lord of the Underworld.\nHe is preparing to invade Terra.	The character is veiled in mystery. Unknown.
+9023	Rudy	Guardian	Rudy and Kris were inseparable until the Throne of Light came between them and their friendship.\nRudy now guards Terra from Kris.	The character is veiled in mystery. Unknown.
+9024	Rudy	Light Guardian	Heroes bestowed the title of Light Guardian onto Rudy for being the protector of Mystic Woods.	The character is veiled in mystery. Unknown.
+9025	Rudy	Ultimate Guardian	"As the long-standing protector of Mystic Woods, Rudy was acknowledged as the Ultimate Guardian by many."	The character is veiled in mystery. Unknown.
+9026	Eileene	Commander	"Regardless of race or gender, power determines everything In the Silent Mine. That is how Eileene came into power."	The character is veiled in mystery. Unknown.
+9027	Eileene	Supreme Commander	Eileene's unstoppable power and relentless commandeering skills landed her the title of Supreme Commander.\nShe plans to expand Silent Mine.	The character is veiled in mystery. Unknown.
+9028	Eileene	Fodina's Empress	Eileene became the Empress of Fodina because of her supreme commandeering skills and power.\nHer plan to expand Silent Mine is ready to be executed.	The character is veiled in mystery. Unknown.
+9029	Rachel	Fiery Flame	Rachel is the eldest daughter of the Royal Agni Family. Rachel's graceful disposition masks\nthe powerful fire spirit inside.	The character is veiled in mystery. Unknown.
+9030	Rachel	Fiery Empress	Rachel became the Fiery Empress of Blazing Desert by learning to control the flames.\nShe was considered the best even within the Agni Family.	The character is veiled in mystery. Unknown.
+9031	Rachel	Phoenix Incarnate	"After rising to the throne as Empress of Blazing Desert, she gave herself the title of Phoenix Incarnate.\nShe is on edge due to the recent invaders in Blazing Desert."	The character is veiled in mystery. Unknown.
+9032	Dellons	Grim Reaper	It is not known how Dark Knight Dellons became a Grim Reaper. It seems he hasn't fully become a Reaper\nat heart because he isn't hostile.	The character is veiled in mystery. Unknown.
+9033	Dellons	Death Judge	"Dellons has completed his transformation into a Grim Reaper,\nkilling everything and everyone on sight in Dark Grave."	The character is veiled in mystery. Unknown.
+9034	Dellons	Deadly Monarch	Dellons regained his sanity and went on to become ruler of the unclaimed Dark Grave.\nAll of the Undead are at his command.	The character is veiled in mystery. Unknown.
+9035	Jave	Dragon Knight	Jave was abandoned in Dragon Ruins not knowing who his parents were.\nHe grew up under the protection of the guardian of the ancient ruins.	The character is veiled in mystery. Unknown.
+9036	Jave	Ancient Dragon Knight	Jave learned how to use magic and speak the Human language from his guardian patron.\nHe protects Dragon Ruins alongside other dragons.	The character is veiled in mystery. Unknown.
+9037	Jave	Dragon Patron	Jave became the Dragon Patron and rose to rule Dragon Ruins after a long period of time.	The character is veiled in mystery. Unknown.
+9038	Spike	Ice Berserker	Unconfirmed rumors say Spike is the son of Queen Lania. His bitter cold heart allows him to use powerful Ice Magic as a Berserker.	The character is veiled in mystery. Unknown.
+9039	Spike	Ice Judge	Spike became the Ice Judge of Frozen Land by unleashing his savage berserker skills.\nHe wants to make Frozen Land the most powerful of them all.	The character is veiled in mystery. Unknown.
+9040	Spike	Ice Tyrant	"A self-made tyrant with plans to immerse the world in the bitter cold.\nUnless his frozen heart is melted, Spike will never stop."	The character is veiled in mystery. Unknown.
+9041	Kris	Dark Side	"Kris used to worship the Light with Rudy. However, after he lost the position of Knight\nof Light to Rudy, he went over to to the dark side to get his revenge."	The character is veiled in mystery. Unknown.
+9042	Kris	Black-hearted	"The dark side did not consume Kris. Instead, he absorbed the dark power and made it his own.\nDemons call him ""Kris the Black-hearted."""	The character is veiled in mystery. Unknown.
+9043	Kris	Hell Lord	Kris the Black-hearted became Lord of the Underworld.\nHe is preparing to invade Terra.	The character is veiled in mystery. Unknown.
+7049	Xiao Qiao	Pagan Beauty	"Considered one of the Pagan Beauties along with her sister, people usually\naddress her as Xiao Qiao. She is the wild counterpart to her shy sister."	The character is veiled in mystery. Unknown.
+7050	Xiao Qiao	Battle Maiden	"She took an active part on the battlefield without her father's knowledge,\nand was praised as the Battle Maiden. She had to go back home when her father found out."	The character is veiled in mystery. Unknown.
+7051	Xiao Qiao	Return of the Battle Maiden	"After learning that her father went missing, she returned\nto the battlefield. She uncovered some clues, but she still hasn't found him yet."	The character is veiled in mystery. Unknown.
+7061	Xiao	Zombie No. 23	"Hello, my name is Xiao, also known as No. 23. I am a zombie\nwho obeys the commands of my master. Fighting is scary and hard, but I cannot run away."	The character is veiled in mystery. Unknown.
+7062	Xiao	Immortal	"Master wanted to revive someone. Someone that master loved passed away on the battlefield.\nIn order to prevent this sadness from recurring, I made the suggestion to create immortal soldiers."	The character is veiled in mystery. Unknown.
+7063	Xiao	Ownerless	"I think master is dead. Somehow I feel a bit saddened.\nBut as long as this talisman is still attached to me, I will move according to my master's wishes."	The character is veiled in mystery. Unknown.
+7001	Nata	Shifter	"She entered this world through a mysterious rift.\nA secret spy, she silently collects intel on this world."	The character is veiled in mystery. Unknown.
+7002	Nata	Lotus Avatar	"Born a premature infant, she was put into a Lotus Flower with a magic weapon.\nWhen the Lotus bloomed after 10 months, she was born again healthy."	The character is veiled in mystery. Unknown.
+7003	Nata	Santou Liubi	"When she releases the magic weapon's power, she turns into Santou Liubi with 3 heads and 6 arms.\nShe doesn't really like to be seen in that form because even she finds it weird."	The character is veiled in mystery. Unknown.
+4152	Alice	Shopkeeper	She has a huge inventory of quality items for low prices.\nJust one question… where did all this come from? - Evan	The character is veiled in mystery. Unknown.
+4153	Alice	Romantic	"I'm worried about my money-obsessed sister.\nShe needs to enjoy life more. - Erin, Alice's younger sister"	The character is veiled in mystery. Unknown.
+4154	Aragon	Commander	"Originally from the special forces, Aragon completed various\ndangerous missions successfully. His recognition earned him the Commander."	The character is veiled in mystery. Unknown.
+4155	Aragon	Imperator	I have appointed Aragon as the Imperator to take over\nwhen I am not around. Nobody objected. It was a great choice. - Rudy	The character is veiled in mystery. Unknown.
+7067	Lee Jung	North Captain	"The guardian who protects the Northern Border and the Magical Tower of Sages.\nNata is his daughter, but they don't have a great relationship."	Land of Emperor 10-1 ~ 10-5
+7068	Lee Jung	Inquisitor	He always listened to the sages and asked many questions so people\nstarted calling him the Inquisitor. It seems he also listens to people's complaints very patiently.	Land of Emperor 10-1 ~ 10-5
+7069	Lee Jung	Tower Lord	"He finally became a sage after awakening.\nHowever, he still guards the Magical Tower of Sages so people call him Tower Lord."	Land of Emperor 10-1 ~ 10-5
+5503	Iron Devourer	#1 (Bottom)	Fake	The character is veiled in mystery. Unknown.
+5504	Iron Devourer	#2 (Top)	Fake	The character is veiled in mystery. Unknown.
+5505	Iron Devourer	#3 (Center)	Original	The character is veiled in mystery. Unknown.
+7053	Bi Dam	Hwarang	"He was from a family of famous warriors. Discovering his talent in archery\nat a young age, he joined a young group of warriors called Hwarang."	The character is veiled in mystery. Unknown.
+7054	Bi Dam	Moon Windlord	"One day, when mountain bandits attacked the town, Bi Dam stopped the attack and killed the leader of the bandits.\nBecause of his great talent, he became the leader of Hwarang and was given the title of Moon Windlord."	The character is veiled in mystery. Unknown.
+7064	Kwon Ho	Son of Tiger	"Abandoned on the mountain as an infant, when bandits discovered\nhim later on, a tigeress was found to have been caring for him."	The character is veiled in mystery. Unknown.
+7065	Kwon Ho	Vagabond	"One day, the bandits attacked a governor's home, but were stopped by the Hwarang.\nAfter losing the leader of the bandits, the one father figure he had in his life, Kwon Ho cried for days."	The character is veiled in mystery. Unknown.
+7066	Kwon Ho	Mountain Leader	"After the bandit leader passed away, Kwon Ho rose up to become the leader of the bandits.\nHe vowed to become a great leader and so far, no one is questioning his capabilities."	The character is veiled in mystery. Unknown.
+7073	Yu Shin	Moon Windlord of Old	"Yu Shin was the leader of the Hwarang. He led the Hwarang Army into battle,\nbut lost his rank after a loss and moved into the mountains."	Land of Emperor 10-1 ~ 10-5
+7074	Yu Shin	Rescuer	"While he living in the mountains, when he heard that his country was in danger, he came down to save everyone.\nUnfortunately, he was still considered unwelcome due to his past failures and so he returned to the mountains."	Land of Emperor 10-1 ~ 10-5
+7075	Yu Shin	Celestial Sage	"After training in the mountains for a long period of time, he transcended into a Sage."	Land of Emperor 10-1 ~ 10-5
+7076	Kang Jae	Headless Spirit	"A headless spirit whose eyes and mouth is somewhere on his body so he can still see or hear.\nUnfortunately, because he has no head, he is a little dumb."	Land of Emperor 10-1 ~ 10-5
+7077	Kang Jae	Head-seeking	"One day, he found where his head was in his dream.\nHe began his journey to find his head and on his travels, he began to recover his memory."	Land of Emperor 10-1 ~ 10-5
+7078	Kang Jae	Vengeful	"After the long journey, he found his head, but it had long since decayed and wasted away.\nHowever, his recovered memories showed him who was responsible so he began another journey, this time for revenge."	Land of Emperor 10-1 ~ 10-5
+5506	Wing of Storm	Ancient Dragon	World Boss Dragon	The character is veiled in mystery. Unknown.
+9044	Sun Wukong	Monkey King	"A stone monkey born in the Mountain of Flowers and Fruit. Born with a tough body,\nhe was able to dominate other living beings on the mountain and rose to the throne."	"Land of Emperor 10-4, 10-5"
+9045	Sun Wukong	Heavenly Garden Guardian	"He was such a troublemaker that the Jade Emperor made him Keeper of the Cloud Horses to keep him occupied. When he\nlearned that his duty was a farce, he caused more trouble. Instead, he told to guard the peaches in Heavenly Garden."	"Land of Emperor 10-4, 10-5"
+9046	Sun Wukong	All-powerful Demon	"His mischief caused him to be locked away, but Xuanzang the monk rescued him. He joined the monk\nin his journey and was recognized for his accomplishments, eventually earning the Buddhahood."	"Land of Emperor 10-4, 10-5"
+7070	Bai Jiao	Counselor	A smart young man who became a Counselor at a young age.\nHis strong interest in dark magic drove other people away from him.	Land of Emperor 10-6 ~ 10-10
+7071	Bai Jiao	Senior Counselor	His extraordinary knowledge lead him to become the Senior Counselor of the Emperor.\nBai Jiao himself thinks his promotion was due to his dark magic.	Land of Emperor 10-6 ~ 10-10
+7072	Bai Jiao	Supreme Counselor	"When he became the Head Counselor of the Emperor, there were rumors\nthat said he brainwashed the emperor with his dark magic."	Land of Emperor 10-6 ~ 10-10
+7106	Teo	Wind Blade	Teo breezes from place to place all over the world. People call him\nthe Wind Blade because he can slash through enemies like the wind.	Land of Emperor 10-6 ~ 10-10
+7107	Teo	Black Bird	"After stepping down as one of the Four Lords, he became a general. However, Teo seems\nvery uncomfortable because his successor Ace is not following his teachings."	Land of Emperor 10-6 ~ 10-10
+7108	Teo	Night Crow	"He is an active member of Night Crow. Besides that, nothing else is known about him."	Land of Emperor 10-6 ~ 10-10
+5700	Jupy	Young Archer	"A young girl still learning archery from her father. She hasn't reached her full potential,\nbut she shoots well for her age."	The character is veiled in mystery. Unknown.
+5701	Snipper	Hunter's Scion	"A boy who respects his father and wants to be a great hunter.\nNo one taught him how, but he practices shooting by himself."	The character is veiled in mystery. Unknown.
+5702	Hellenia	Flame Shield	One of the valkyries who guards the celestial world. Her firery shield is an indication of her high defence. She heads to earth to find her missing twin sister.	The character is veiled with mystery. Unknown.
+8006	Mao Song	Tiger Slayer	"On his way home after his journey, he came across people too terrified\nof the wild tiger to venture out. He caught the tiger with his bare hands."	Land of Emperor 9-6 ~ 9-10
+8007	Mao Song	Town Guardian	"News of his feat spread to his hometown and when\nhe returned home, he was appointed the Town Guardian."	Land of Emperor 9-6 ~ 9-10
+8008	Mao Song	Leader	He formed an organization that is responsible for fending off bandits\nand became its leader. His fame has spread far and wide.	Land of Emperor 9-6 ~ 9-10
+8003	Tsing Tao	Drunken Panda	A panda that delivers the alcohol that is drunk in taverns and restaurants. He loves alcohol.\nHe always carries around some for himself. He's also in charge of keeping the peace in town.	Land of Emperor 9-6 ~ 9-10
+8004	Tsing Tao	Drunken Fist	"He happened to buy an old book about Drunken Fighting from the market. He was interested since it\ninvolved drinking, but it wasn't easy to learn. But still, he enjoys it because he gets to drink."	Land of Emperor 9-6 ~ 9-10
+8005	Tsing Tao	Drunken Master	"He started Drunken Fighting just for fun, but he eventually got the hang it.\nHe's now able to drink and not get drunk while beating up his enemies."	Land of Emperor 9-6 ~ 9-10
+8000	Daisy	Lunar Guardian Leader	Daisy is Ace's older sister and the leader of the Lunar Guardians.\nShe studied Yin-Yang and Ninjutsu to protect her little brother.	Moonlit Isle 8-8 ~ 8-20
+8001	Daisy	Night Ruler	"The Lunar Guardians are also known as soldiers of the night. Naturally, the ninjas of the\nLunar Guardians address Daisy as the ruler of the night. Daisy doesn't seem to mind."	Moonlit Isle 8-9 ~ 8-20
+8002	Daisy	Crimson Butterfly	"Deep in the night, the crimson butterfly flutters about as if its body has caught on fire.\nWhile fire moths find their way towards death, the crimson butterfly becomes death itself and find its way to you."	Moonlit Isle 8-9 ~ 8-20
